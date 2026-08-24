@@ -1,0 +1,1131 @@
+Application ID,Company,Skill,Status
+APP0001,Rivergate Bank,SQL,Applied
+APP0001,Rivergate Bank,Excel,Applied
+APP0001,Rivergate Bank,Python,Applied
+APP0001,Rivergate Bank,DAX,Applied
+APP0001,Rivergate Bank,Power Query,Applied
+APP0001,Rivergate Bank,Google Sheets,Applied
+APP0001,Rivergate Bank,AWS,Applied
+APP0002,Marlin Energy,Power BI,Rejected
+APP0002,Marlin Energy,Python,Rejected
+APP0002,Marlin Energy,Data Cleaning,Rejected
+APP0002,Marlin Energy,Git,Rejected
+APP0002,Marlin Energy,Data Visualization,Rejected
+APP0002,Marlin Energy,Business Intelligence,Rejected
+APP0003,Trailhead Logistics,Python,Rejected
+APP0003,Trailhead Logistics,Power Query,Rejected
+APP0003,Trailhead Logistics,Power BI,Rejected
+APP0003,Trailhead Logistics,Data Cleaning,Rejected
+APP0003,Trailhead Logistics,Pandas,Rejected
+APP0003,Trailhead Logistics,Machine Learning,Rejected
+APP0004,Nimbus Cloud Systems,Pandas,Rejected
+APP0004,Nimbus Cloud Systems,Azure,Rejected
+APP0004,Nimbus Cloud Systems,Communication,Rejected
+APP0004,Nimbus Cloud Systems,Looker,Rejected
+APP0004,Nimbus Cloud Systems,Power Query,Rejected
+APP0004,Nimbus Cloud Systems,R,Rejected
+APP0004,Nimbus Cloud Systems,Statistics,Rejected
+APP0005,Skyline Retailers,Tableau,No Response
+APP0005,Skyline Retailers,Pandas,No Response
+APP0005,Skyline Retailers,Git,No Response
+APP0005,Skyline Retailers,Power Query,No Response
+APP0005,Skyline Retailers,Business Intelligence,No Response
+APP0005,Skyline Retailers,Looker,No Response
+APP0005,Skyline Retailers,Communication,No Response
+APP0006,Skyline Retailers,Forecasting,Applied
+APP0006,Skyline Retailers,R,Applied
+APP0006,Skyline Retailers,A/B Testing,Applied
+APP0006,Skyline Retailers,AWS,Applied
+APP0006,Skyline Retailers,Python,Applied
+APP0007,Foundry Manufacturing,Data Modeling,Interview
+APP0007,Foundry Manufacturing,Azure,Interview
+APP0007,Foundry Manufacturing,Google Sheets,Interview
+APP0007,Foundry Manufacturing,AWS,Interview
+APP0007,Foundry Manufacturing,DAX,Interview
+APP0007,Foundry Manufacturing,Tableau,Interview
+APP0008,Elm Street Foods,ETL,Applied
+APP0008,Elm Street Foods,Looker,Applied
+APP0008,Elm Street Foods,Tableau,Applied
+APP0008,Elm Street Foods,R,Applied
+APP0009,Stonebridge Consulting,Machine Learning,Applied
+APP0009,Stonebridge Consulting,Google Sheets,Applied
+APP0009,Stonebridge Consulting,Git,Applied
+APP0009,Stonebridge Consulting,Power BI,Applied
+APP0009,Stonebridge Consulting,Power Query,Applied
+APP0009,Stonebridge Consulting,Business Intelligence,Applied
+APP0010,Northwind Analytics,Pandas,Applied
+APP0010,Northwind Analytics,R,Applied
+APP0010,Northwind Analytics,VBA,Applied
+APP0010,Northwind Analytics,DAX,Applied
+APP0010,Northwind Analytics,Looker,Applied
+APP0011,Vertex Capital Partners,R,No Response
+APP0011,Vertex Capital Partners,Azure,No Response
+APP0011,Vertex Capital Partners,Power BI,No Response
+APP0011,Vertex Capital Partners,SQL,No Response
+APP0012,Greenfield Foods,Power BI,No Response
+APP0012,Greenfield Foods,SQL,No Response
+APP0012,Greenfield Foods,Azure,No Response
+APP0012,Greenfield Foods,Looker,No Response
+APP0012,Greenfield Foods,Excel,No Response
+APP0012,Greenfield Foods,Python,No Response
+APP0012,Greenfield Foods,Power Query,No Response
+APP0012,Greenfield Foods,PivotTables,No Response
+APP0013,Cascade Retail Co,SQL,Interview
+APP0013,Cascade Retail Co,Git,Interview
+APP0013,Cascade Retail Co,Snowflake,Interview
+APP0013,Cascade Retail Co,VBA,Interview
+APP0013,Cascade Retail Co,Google Sheets,Interview
+APP0013,Cascade Retail Co,Business Intelligence,Interview
+APP0014,Summit Consulting Partners,R,Applied
+APP0014,Summit Consulting Partners,Snowflake,Applied
+APP0014,Summit Consulting Partners,Data Modeling,Applied
+APP0014,Summit Consulting Partners,Google Sheets,Applied
+APP0014,Summit Consulting Partners,Statistics,Applied
+APP0014,Summit Consulting Partners,Pandas,Applied
+APP0014,Summit Consulting Partners,DAX,Applied
+APP0015,Solstice Software,Pandas,No Response
+APP0015,Solstice Software,Tableau,No Response
+APP0015,Solstice Software,Data Visualization,No Response
+APP0015,Solstice Software,Python,No Response
+APP0015,Solstice Software,Power Query,No Response
+APP0015,Solstice Software,Forecasting,No Response
+APP0015,Solstice Software,NumPy,No Response
+APP0015,Solstice Software,PivotTables,No Response
+APP0016,Beacon Hill Hospital,Pandas,Interview
+APP0016,Beacon Hill Hospital,SQL,Interview
+APP0016,Beacon Hill Hospital,Python,Interview
+APP0016,Beacon Hill Hospital,Azure,Interview
+APP0016,Beacon Hill Hospital,A/B Testing,Interview
+APP0016,Beacon Hill Hospital,Git,Interview
+APP0016,Beacon Hill Hospital,Data Modeling,Interview
+APP0017,Lighthouse Retail Group,Looker,No Response
+APP0017,Lighthouse Retail Group,SQL,No Response
+APP0017,Lighthouse Retail Group,Data Modeling,No Response
+APP0017,Lighthouse Retail Group,Data Visualization,No Response
+APP0017,Lighthouse Retail Group,Snowflake,No Response
+APP0018,Horizon Freight,Git,Rejected
+APP0018,Horizon Freight,PivotTables,Rejected
+APP0018,Horizon Freight,Forecasting,Rejected
+APP0018,Horizon Freight,A/B Testing,Rejected
+APP0018,Horizon Freight,Excel,Rejected
+APP0019,Parallax Software,Data Visualization,No Response
+APP0019,Parallax Software,NumPy,No Response
+APP0019,Parallax Software,Forecasting,No Response
+APP0019,Parallax Software,Power Query,No Response
+APP0019,Parallax Software,ETL,No Response
+APP0019,Parallax Software,Excel,No Response
+APP0019,Parallax Software,R,No Response
+APP0020,Meridian Data Co,Business Intelligence,Offer
+APP0020,Meridian Data Co,Forecasting,Offer
+APP0020,Meridian Data Co,Statistics,Offer
+APP0020,Meridian Data Co,A/B Testing,Offer
+APP0020,Meridian Data Co,AWS,Offer
+APP0020,Meridian Data Co,Google Sheets,Offer
+APP0021,Fieldstone Consulting,Business Intelligence,Rejected
+APP0021,Fieldstone Consulting,NumPy,Rejected
+APP0021,Fieldstone Consulting,Google Sheets,Rejected
+APP0021,Fieldstone Consulting,R,Rejected
+APP0022,Greenfield Foods,A/B Testing,Interview
+APP0022,Greenfield Foods,Forecasting,Interview
+APP0022,Greenfield Foods,Snowflake,Interview
+APP0022,Greenfield Foods,AWS,Interview
+APP0022,Greenfield Foods,Azure,Interview
+APP0023,Quartz Data Solutions,Data Modeling,Rejected
+APP0023,Quartz Data Solutions,ETL,Rejected
+APP0023,Quartz Data Solutions,Power Query,Rejected
+APP0023,Quartz Data Solutions,R,Rejected
+APP0024,Harbor Health Systems,Tableau,No Response
+APP0024,Harbor Health Systems,Azure,No Response
+APP0024,Harbor Health Systems,Communication,No Response
+APP0024,Harbor Health Systems,Excel,No Response
+APP0024,Harbor Health Systems,ETL,No Response
+APP0025,Beacon Hill Hospital,Statistics,No Response
+APP0025,Beacon Hill Hospital,ETL,No Response
+APP0025,Beacon Hill Hospital,Machine Learning,No Response
+APP0025,Beacon Hill Hospital,AWS,No Response
+APP0025,Beacon Hill Hospital,Business Intelligence,No Response
+APP0025,Beacon Hill Hospital,Google Sheets,No Response
+APP0025,Beacon Hill Hospital,A/B Testing,No Response
+APP0025,Beacon Hill Hospital,Looker,No Response
+APP0026,Pioneer Energy Corp,Statistics,Rejected
+APP0026,Pioneer Energy Corp,Git,Rejected
+APP0026,Pioneer Energy Corp,Looker,Rejected
+APP0026,Pioneer Energy Corp,Python,Rejected
+APP0026,Pioneer Energy Corp,Tableau,Rejected
+APP0026,Pioneer Energy Corp,Business Intelligence,Rejected
+APP0027,Summit Consulting Partners,Communication,No Response
+APP0027,Summit Consulting Partners,Excel,No Response
+APP0027,Summit Consulting Partners,ETL,No Response
+APP0027,Summit Consulting Partners,Snowflake,No Response
+APP0027,Summit Consulting Partners,Data Cleaning,No Response
+APP0027,Summit Consulting Partners,VBA,No Response
+APP0027,Summit Consulting Partners,Data Modeling,No Response
+APP0027,Summit Consulting Partners,Data Visualization,No Response
+APP0028,Trailhead Logistics,Business Intelligence,No Response
+APP0028,Trailhead Logistics,PivotTables,No Response
+APP0028,Trailhead Logistics,Machine Learning,No Response
+APP0028,Trailhead Logistics,Tableau,No Response
+APP0028,Trailhead Logistics,AWS,No Response
+APP0028,Trailhead Logistics,Looker,No Response
+APP0028,Trailhead Logistics,Excel,No Response
+APP0029,Fieldstone Consulting,ETL,No Response
+APP0029,Fieldstone Consulting,Data Cleaning,No Response
+APP0029,Fieldstone Consulting,Pandas,No Response
+APP0029,Fieldstone Consulting,Git,No Response
+APP0029,Fieldstone Consulting,A/B Testing,No Response
+APP0029,Fieldstone Consulting,Forecasting,No Response
+APP0030,Willow Creek Health,Tableau,Rejected
+APP0030,Willow Creek Health,VBA,Rejected
+APP0030,Willow Creek Health,R,Rejected
+APP0030,Willow Creek Health,Power BI,Rejected
+APP0030,Willow Creek Health,Snowflake,Rejected
+APP0031,Clearwater Media,R,Rejected
+APP0031,Clearwater Media,Data Cleaning,Rejected
+APP0031,Clearwater Media,Data Modeling,Rejected
+APP0031,Clearwater Media,Communication,Rejected
+APP0031,Clearwater Media,DAX,Rejected
+APP0031,Clearwater Media,Python,Rejected
+APP0031,Clearwater Media,Snowflake,Rejected
+APP0031,Clearwater Media,Azure,Rejected
+APP0032,Stonebridge Consulting,Excel,No Response
+APP0032,Stonebridge Consulting,A/B Testing,No Response
+APP0032,Stonebridge Consulting,VBA,No Response
+APP0032,Stonebridge Consulting,Power BI,No Response
+APP0032,Stonebridge Consulting,Data Modeling,No Response
+APP0032,Stonebridge Consulting,Data Visualization,No Response
+APP0033,Fieldstone Consulting,Git,Rejected
+APP0033,Fieldstone Consulting,Power Query,Rejected
+APP0033,Fieldstone Consulting,Python,Rejected
+APP0033,Fieldstone Consulting,Pandas,Rejected
+APP0033,Fieldstone Consulting,Machine Learning,Rejected
+APP0033,Fieldstone Consulting,Data Modeling,Rejected
+APP0034,Elm Street Foods,DAX,Rejected
+APP0034,Elm Street Foods,Python,Rejected
+APP0034,Elm Street Foods,Power Query,Rejected
+APP0034,Elm Street Foods,Business Intelligence,Rejected
+APP0034,Elm Street Foods,A/B Testing,Rejected
+APP0034,Elm Street Foods,VBA,Rejected
+APP0034,Elm Street Foods,Looker,Rejected
+APP0034,Elm Street Foods,Forecasting,Rejected
+APP0035,Beacon Financial Group,A/B Testing,No Response
+APP0035,Beacon Financial Group,Business Intelligence,No Response
+APP0035,Beacon Financial Group,Looker,No Response
+APP0035,Beacon Financial Group,Statistics,No Response
+APP0035,Beacon Financial Group,Data Visualization,No Response
+APP0035,Beacon Financial Group,Communication,No Response
+APP0036,Greenfield Foods,ETL,Rejected
+APP0036,Greenfield Foods,Google Sheets,Rejected
+APP0036,Greenfield Foods,AWS,Rejected
+APP0036,Greenfield Foods,NumPy,Rejected
+APP0036,Greenfield Foods,Power BI,Rejected
+APP0036,Greenfield Foods,DAX,Rejected
+APP0036,Greenfield Foods,Git,Rejected
+APP0036,Greenfield Foods,Power Query,Rejected
+APP0037,Solstice Software,VBA,Rejected
+APP0037,Solstice Software,Machine Learning,Rejected
+APP0037,Solstice Software,Statistics,Rejected
+APP0037,Solstice Software,PivotTables,Rejected
+APP0037,Solstice Software,SQL,Rejected
+APP0037,Solstice Software,Pandas,Rejected
+APP0037,Solstice Software,Git,Rejected
+APP0038,Crestline Insurance,AWS,Applied
+APP0038,Crestline Insurance,Git,Applied
+APP0038,Crestline Insurance,Forecasting,Applied
+APP0038,Crestline Insurance,Data Modeling,Applied
+APP0038,Crestline Insurance,Power Query,Applied
+APP0038,Crestline Insurance,Google Sheets,Applied
+APP0038,Crestline Insurance,Data Cleaning,Applied
+APP0039,Fieldstone Consulting,Machine Learning,Offer
+APP0039,Fieldstone Consulting,Communication,Offer
+APP0039,Fieldstone Consulting,AWS,Offer
+APP0039,Fieldstone Consulting,VBA,Offer
+APP0039,Fieldstone Consulting,NumPy,Offer
+APP0039,Fieldstone Consulting,SQL,Offer
+APP0039,Fieldstone Consulting,Power Query,Offer
+APP0040,Sterling Healthcare Group,Data Modeling,Rejected
+APP0040,Sterling Healthcare Group,Tableau,Rejected
+APP0040,Sterling Healthcare Group,Python,Rejected
+APP0040,Sterling Healthcare Group,SQL,Rejected
+APP0040,Sterling Healthcare Group,PivotTables,Rejected
+APP0040,Sterling Healthcare Group,NumPy,Rejected
+APP0041,Bright Path Media,Business Intelligence,No Response
+APP0041,Bright Path Media,Statistics,No Response
+APP0041,Bright Path Media,AWS,No Response
+APP0041,Bright Path Media,Pandas,No Response
+APP0041,Bright Path Media,Excel,No Response
+APP0041,Bright Path Media,Python,No Response
+APP0041,Bright Path Media,Power Query,No Response
+APP0042,Meridian Data Co,A/B Testing,No Response
+APP0042,Meridian Data Co,Azure,No Response
+APP0042,Meridian Data Co,VBA,No Response
+APP0042,Meridian Data Co,Python,No Response
+APP0042,Meridian Data Co,Forecasting,No Response
+APP0042,Meridian Data Co,Data Visualization,No Response
+APP0042,Meridian Data Co,Git,No Response
+APP0042,Meridian Data Co,Statistics,No Response
+APP0043,Elm Street Foods,Git,No Response
+APP0043,Elm Street Foods,Google Sheets,No Response
+APP0043,Elm Street Foods,Excel,No Response
+APP0043,Elm Street Foods,R,No Response
+APP0043,Elm Street Foods,Looker,No Response
+APP0043,Elm Street Foods,Machine Learning,No Response
+APP0043,Elm Street Foods,A/B Testing,No Response
+APP0044,Elm Street Foods,Power BI,No Response
+APP0044,Elm Street Foods,Excel,No Response
+APP0044,Elm Street Foods,Azure,No Response
+APP0044,Elm Street Foods,AWS,No Response
+APP0044,Elm Street Foods,Power Query,No Response
+APP0044,Elm Street Foods,Communication,No Response
+APP0044,Elm Street Foods,PivotTables,No Response
+APP0045,Rivergate Bank,Business Intelligence,Interview
+APP0045,Rivergate Bank,Tableau,Interview
+APP0045,Rivergate Bank,Python,Interview
+APP0045,Rivergate Bank,Pandas,Interview
+APP0045,Rivergate Bank,A/B Testing,Interview
+APP0045,Rivergate Bank,Statistics,Interview
+APP0045,Rivergate Bank,Google Sheets,Interview
+APP0045,Rivergate Bank,ETL,Interview
+APP0046,Marlin Energy,Machine Learning,No Response
+APP0046,Marlin Energy,Statistics,No Response
+APP0046,Marlin Energy,DAX,No Response
+APP0046,Marlin Energy,Communication,No Response
+APP0046,Marlin Energy,Power Query,No Response
+APP0046,Marlin Energy,Snowflake,No Response
+APP0046,Marlin Energy,Data Cleaning,No Response
+APP0047,Vertex Capital Partners,Statistics,No Response
+APP0047,Vertex Capital Partners,Power BI,No Response
+APP0047,Vertex Capital Partners,Machine Learning,No Response
+APP0047,Vertex Capital Partners,Data Modeling,No Response
+APP0047,Vertex Capital Partners,Google Sheets,No Response
+APP0047,Vertex Capital Partners,Forecasting,No Response
+APP0047,Vertex Capital Partners,Excel,No Response
+APP0047,Vertex Capital Partners,Tableau,No Response
+APP0048,Lighthouse Retail Group,Azure,Applied
+APP0048,Lighthouse Retail Group,Communication,Applied
+APP0048,Lighthouse Retail Group,ETL,Applied
+APP0048,Lighthouse Retail Group,VBA,Applied
+APP0048,Lighthouse Retail Group,Looker,Applied
+APP0048,Lighthouse Retail Group,SQL,Applied
+APP0049,Bluepeak Insurance,Google Sheets,Interview
+APP0049,Bluepeak Insurance,A/B Testing,Interview
+APP0049,Bluepeak Insurance,Snowflake,Interview
+APP0049,Bluepeak Insurance,R,Interview
+APP0049,Bluepeak Insurance,Forecasting,Interview
+APP0050,Granite Manufacturing,Forecasting,Applied
+APP0050,Granite Manufacturing,Machine Learning,Applied
+APP0050,Granite Manufacturing,NumPy,Applied
+APP0050,Granite Manufacturing,R,Applied
+APP0051,Marlin Energy,Power BI,No Response
+APP0051,Marlin Energy,Power Query,No Response
+APP0051,Marlin Energy,Data Cleaning,No Response
+APP0051,Marlin Energy,Snowflake,No Response
+APP0051,Marlin Energy,Data Visualization,No Response
+APP0051,Marlin Energy,ETL,No Response
+APP0051,Marlin Energy,NumPy,No Response
+APP0052,Crestline Insurance,Azure,Rejected
+APP0052,Crestline Insurance,Power BI,Rejected
+APP0052,Crestline Insurance,SQL,Rejected
+APP0052,Crestline Insurance,NumPy,Rejected
+APP0052,Crestline Insurance,Forecasting,Rejected
+APP0053,Bluepeak Insurance,Data Modeling,Applied
+APP0053,Bluepeak Insurance,PivotTables,Applied
+APP0053,Bluepeak Insurance,Pandas,Applied
+APP0053,Bluepeak Insurance,VBA,Applied
+APP0053,Bluepeak Insurance,NumPy,Applied
+APP0053,Bluepeak Insurance,Statistics,Applied
+APP0054,Sterling Healthcare Group,Machine Learning,Applied
+APP0054,Sterling Healthcare Group,Data Visualization,Applied
+APP0054,Sterling Healthcare Group,R,Applied
+APP0054,Sterling Healthcare Group,Business Intelligence,Applied
+APP0055,Horizon Freight,Communication,Rejected
+APP0055,Horizon Freight,NumPy,Rejected
+APP0055,Horizon Freight,Azure,Rejected
+APP0055,Horizon Freight,A/B Testing,Rejected
+APP0055,Horizon Freight,Power BI,Rejected
+APP0055,Horizon Freight,Tableau,Rejected
+APP0055,Horizon Freight,SQL,Rejected
+APP0056,Pioneer Energy Corp,Data Modeling,Rejected
+APP0056,Pioneer Energy Corp,VBA,Rejected
+APP0056,Pioneer Energy Corp,AWS,Rejected
+APP0056,Pioneer Energy Corp,A/B Testing,Rejected
+APP0057,Copper Ridge Insurance,Power BI,No Response
+APP0057,Copper Ridge Insurance,Git,No Response
+APP0057,Copper Ridge Insurance,Data Modeling,No Response
+APP0057,Copper Ridge Insurance,Machine Learning,No Response
+APP0057,Copper Ridge Insurance,Python,No Response
+APP0058,Union Square Bank,Statistics,Applied
+APP0058,Union Square Bank,ETL,Applied
+APP0058,Union Square Bank,Tableau,Applied
+APP0058,Union Square Bank,Forecasting,Applied
+APP0058,Union Square Bank,AWS,Applied
+APP0059,Trailhead Logistics,Business Intelligence,Interview
+APP0059,Trailhead Logistics,Python,Interview
+APP0059,Trailhead Logistics,VBA,Interview
+APP0059,Trailhead Logistics,Machine Learning,Interview
+APP0060,Sterling Healthcare Group,A/B Testing,No Response
+APP0060,Sterling Healthcare Group,R,No Response
+APP0060,Sterling Healthcare Group,Power BI,No Response
+APP0060,Sterling Healthcare Group,VBA,No Response
+APP0060,Sterling Healthcare Group,Communication,No Response
+APP0060,Sterling Healthcare Group,Machine Learning,No Response
+APP0060,Sterling Healthcare Group,Python,No Response
+APP0061,Meridian Data Co,A/B Testing,No Response
+APP0061,Meridian Data Co,Power BI,No Response
+APP0061,Meridian Data Co,Forecasting,No Response
+APP0061,Meridian Data Co,Communication,No Response
+APP0061,Meridian Data Co,Data Modeling,No Response
+APP0061,Meridian Data Co,Azure,No Response
+APP0061,Meridian Data Co,ETL,No Response
+APP0061,Meridian Data Co,Looker,No Response
+APP0062,Sterling Healthcare Group,Data Visualization,No Response
+APP0062,Sterling Healthcare Group,Tableau,No Response
+APP0062,Sterling Healthcare Group,R,No Response
+APP0062,Sterling Healthcare Group,VBA,No Response
+APP0062,Sterling Healthcare Group,Python,No Response
+APP0062,Sterling Healthcare Group,Business Intelligence,No Response
+APP0063,Horizon Freight,AWS,Rejected
+APP0063,Horizon Freight,NumPy,Rejected
+APP0063,Horizon Freight,Data Visualization,Rejected
+APP0063,Horizon Freight,Power BI,Rejected
+APP0063,Horizon Freight,Snowflake,Rejected
+APP0063,Horizon Freight,Google Sheets,Rejected
+APP0064,Ironclad Manufacturing,R,Rejected
+APP0064,Ironclad Manufacturing,Data Modeling,Rejected
+APP0064,Ironclad Manufacturing,Communication,Rejected
+APP0064,Ironclad Manufacturing,Pandas,Rejected
+APP0064,Ironclad Manufacturing,Excel,Rejected
+APP0064,Ironclad Manufacturing,PivotTables,Rejected
+APP0064,Ironclad Manufacturing,ETL,Rejected
+APP0064,Ironclad Manufacturing,NumPy,Rejected
+APP0065,Crestline Insurance,Tableau,Offer
+APP0065,Crestline Insurance,PivotTables,Offer
+APP0065,Crestline Insurance,ETL,Offer
+APP0065,Crestline Insurance,AWS,Offer
+APP0066,Fieldstone Consulting,NumPy,Applied
+APP0066,Fieldstone Consulting,R,Applied
+APP0066,Fieldstone Consulting,Snowflake,Applied
+APP0066,Fieldstone Consulting,VBA,Applied
+APP0067,Stonebridge Consulting,PivotTables,Rejected
+APP0067,Stonebridge Consulting,Tableau,Rejected
+APP0067,Stonebridge Consulting,Data Cleaning,Rejected
+APP0067,Stonebridge Consulting,Looker,Rejected
+APP0067,Stonebridge Consulting,Communication,Rejected
+APP0067,Stonebridge Consulting,Power Query,Rejected
+APP0067,Stonebridge Consulting,Google Sheets,Rejected
+APP0068,Harbor Health Systems,PivotTables,Rejected
+APP0068,Harbor Health Systems,Forecasting,Rejected
+APP0068,Harbor Health Systems,AWS,Rejected
+APP0068,Harbor Health Systems,Machine Learning,Rejected
+APP0068,Harbor Health Systems,Communication,Rejected
+APP0068,Harbor Health Systems,Data Visualization,Rejected
+APP0069,Marlin Energy,Google Sheets,Rejected
+APP0069,Marlin Energy,DAX,Rejected
+APP0069,Marlin Energy,ETL,Rejected
+APP0069,Marlin Energy,Data Visualization,Rejected
+APP0069,Marlin Energy,Forecasting,Rejected
+APP0069,Marlin Energy,Azure,Rejected
+APP0069,Marlin Energy,Tableau,Rejected
+APP0069,Marlin Energy,Power Query,Rejected
+APP0070,Amber Logistics,Tableau,No Response
+APP0070,Amber Logistics,Machine Learning,No Response
+APP0070,Amber Logistics,Python,No Response
+APP0070,Amber Logistics,VBA,No Response
+APP0070,Amber Logistics,Data Modeling,No Response
+APP0070,Amber Logistics,Azure,No Response
+APP0071,Summit Consulting Partners,AWS,No Response
+APP0071,Summit Consulting Partners,Google Sheets,No Response
+APP0071,Summit Consulting Partners,Data Cleaning,No Response
+APP0071,Summit Consulting Partners,Machine Learning,No Response
+APP0072,Crestline Insurance,Communication,Applied
+APP0072,Crestline Insurance,Python,Applied
+APP0072,Crestline Insurance,Google Sheets,Applied
+APP0072,Crestline Insurance,Azure,Applied
+APP0072,Crestline Insurance,PivotTables,Applied
+APP0072,Crestline Insurance,SQL,Applied
+APP0073,Cypress Analytics,Python,No Response
+APP0073,Cypress Analytics,Statistics,No Response
+APP0073,Cypress Analytics,Power BI,No Response
+APP0073,Cypress Analytics,Looker,No Response
+APP0073,Cypress Analytics,R,No Response
+APP0073,Cypress Analytics,Data Cleaning,No Response
+APP0074,Marlin Energy,R,Rejected
+APP0074,Marlin Energy,Communication,Rejected
+APP0074,Marlin Energy,Data Modeling,Rejected
+APP0074,Marlin Energy,Business Intelligence,Rejected
+APP0074,Marlin Energy,Google Sheets,Rejected
+APP0075,Beacon Financial Group,ETL,Interview
+APP0075,Beacon Financial Group,AWS,Interview
+APP0075,Beacon Financial Group,Tableau,Interview
+APP0075,Beacon Financial Group,Data Modeling,Interview
+APP0075,Beacon Financial Group,Data Cleaning,Interview
+APP0075,Beacon Financial Group,Forecasting,Interview
+APP0076,Harbor Health Systems,Data Modeling,Offer
+APP0076,Harbor Health Systems,DAX,Offer
+APP0076,Harbor Health Systems,Forecasting,Offer
+APP0076,Harbor Health Systems,AWS,Offer
+APP0076,Harbor Health Systems,Tableau,Offer
+APP0077,Foundry Manufacturing,Tableau,No Response
+APP0077,Foundry Manufacturing,Data Modeling,No Response
+APP0077,Foundry Manufacturing,A/B Testing,No Response
+APP0077,Foundry Manufacturing,Python,No Response
+APP0077,Foundry Manufacturing,Power Query,No Response
+APP0077,Foundry Manufacturing,Machine Learning,No Response
+APP0077,Foundry Manufacturing,Data Visualization,No Response
+APP0077,Foundry Manufacturing,Excel,No Response
+APP0078,Bluepeak Insurance,Data Modeling,Interview
+APP0078,Bluepeak Insurance,Tableau,Interview
+APP0078,Bluepeak Insurance,Looker,Interview
+APP0078,Bluepeak Insurance,Business Intelligence,Interview
+APP0078,Bluepeak Insurance,AWS,Interview
+APP0079,Rivergate Bank,Azure,No Response
+APP0079,Rivergate Bank,Google Sheets,No Response
+APP0079,Rivergate Bank,Snowflake,No Response
+APP0079,Rivergate Bank,Power Query,No Response
+APP0080,Willow Creek Health,Git,Rejected
+APP0080,Willow Creek Health,VBA,Rejected
+APP0080,Willow Creek Health,SQL,Rejected
+APP0080,Willow Creek Health,Azure,Rejected
+APP0080,Willow Creek Health,Data Cleaning,Rejected
+APP0080,Willow Creek Health,Data Visualization,Rejected
+APP0080,Willow Creek Health,Pandas,Rejected
+APP0081,Ironclad Manufacturing,Data Modeling,Applied
+APP0081,Ironclad Manufacturing,ETL,Applied
+APP0081,Ironclad Manufacturing,R,Applied
+APP0081,Ironclad Manufacturing,Machine Learning,Applied
+APP0081,Ironclad Manufacturing,Communication,Applied
+APP0082,Bright Path Media,Forecasting,Interview
+APP0082,Bright Path Media,Data Visualization,Interview
+APP0082,Bright Path Media,A/B Testing,Interview
+APP0082,Bright Path Media,Data Cleaning,Interview
+APP0083,Vantage Point Capital,Data Modeling,No Response
+APP0083,Vantage Point Capital,PivotTables,No Response
+APP0083,Vantage Point Capital,Looker,No Response
+APP0083,Vantage Point Capital,NumPy,No Response
+APP0083,Vantage Point Capital,Statistics,No Response
+APP0083,Vantage Point Capital,Power BI,No Response
+APP0083,Vantage Point Capital,Python,No Response
+APP0083,Vantage Point Capital,Business Intelligence,No Response
+APP0084,Fieldstone Consulting,Python,Applied
+APP0084,Fieldstone Consulting,R,Applied
+APP0084,Fieldstone Consulting,Azure,Applied
+APP0084,Fieldstone Consulting,Data Cleaning,Applied
+APP0085,Amber Logistics,SQL,Applied
+APP0085,Amber Logistics,AWS,Applied
+APP0085,Amber Logistics,Tableau,Applied
+APP0085,Amber Logistics,R,Applied
+APP0085,Amber Logistics,Machine Learning,Applied
+APP0085,Amber Logistics,Data Visualization,Applied
+APP0085,Amber Logistics,Communication,Applied
+APP0085,Amber Logistics,Business Intelligence,Applied
+APP0086,Meridian Data Co,Communication,No Response
+APP0086,Meridian Data Co,Machine Learning,No Response
+APP0086,Meridian Data Co,DAX,No Response
+APP0086,Meridian Data Co,AWS,No Response
+APP0086,Meridian Data Co,NumPy,No Response
+APP0086,Meridian Data Co,Git,No Response
+APP0087,Copper Ridge Insurance,Excel,Offer
+APP0087,Copper Ridge Insurance,Data Visualization,Offer
+APP0087,Copper Ridge Insurance,Looker,Offer
+APP0087,Copper Ridge Insurance,Snowflake,Offer
+APP0087,Copper Ridge Insurance,Data Modeling,Offer
+APP0087,Copper Ridge Insurance,Machine Learning,Offer
+APP0087,Copper Ridge Insurance,Forecasting,Offer
+APP0088,Skyline Retailers,Data Visualization,Applied
+APP0088,Skyline Retailers,Tableau,Applied
+APP0088,Skyline Retailers,ETL,Applied
+APP0088,Skyline Retailers,Looker,Applied
+APP0088,Skyline Retailers,Azure,Applied
+APP0088,Skyline Retailers,Snowflake,Applied
+APP0088,Skyline Retailers,PivotTables,Applied
+APP0088,Skyline Retailers,Data Modeling,Applied
+APP0089,Beacon Hill Hospital,AWS,Interview
+APP0089,Beacon Hill Hospital,Looker,Interview
+APP0089,Beacon Hill Hospital,Python,Interview
+APP0089,Beacon Hill Hospital,Google Sheets,Interview
+APP0089,Beacon Hill Hospital,Azure,Interview
+APP0089,Beacon Hill Hospital,PivotTables,Interview
+APP0090,Cypress Analytics,ETL,Rejected
+APP0090,Cypress Analytics,Snowflake,Rejected
+APP0090,Cypress Analytics,A/B Testing,Rejected
+APP0090,Cypress Analytics,AWS,Rejected
+APP0090,Cypress Analytics,Azure,Rejected
+APP0091,Redwood Consulting,VBA,No Response
+APP0091,Redwood Consulting,Machine Learning,No Response
+APP0091,Redwood Consulting,DAX,No Response
+APP0091,Redwood Consulting,Statistics,No Response
+APP0091,Redwood Consulting,AWS,No Response
+APP0091,Redwood Consulting,Tableau,No Response
+APP0091,Redwood Consulting,ETL,No Response
+APP0092,Solstice Software,Power BI,No Response
+APP0092,Solstice Software,SQL,No Response
+APP0092,Solstice Software,NumPy,No Response
+APP0092,Solstice Software,Data Cleaning,No Response
+APP0092,Solstice Software,Git,No Response
+APP0093,Crestline Insurance,VBA,Offer
+APP0093,Crestline Insurance,AWS,Offer
+APP0093,Crestline Insurance,Azure,Offer
+APP0093,Crestline Insurance,R,Offer
+APP0093,Crestline Insurance,Git,Offer
+APP0093,Crestline Insurance,NumPy,Offer
+APP0094,Lighthouse Retail Group,Python,No Response
+APP0094,Lighthouse Retail Group,Data Cleaning,No Response
+APP0094,Lighthouse Retail Group,Google Sheets,No Response
+APP0094,Lighthouse Retail Group,Machine Learning,No Response
+APP0094,Lighthouse Retail Group,Looker,No Response
+APP0094,Lighthouse Retail Group,Pandas,No Response
+APP0095,Ironclad Manufacturing,Machine Learning,Interview
+APP0095,Ironclad Manufacturing,Tableau,Interview
+APP0095,Ironclad Manufacturing,AWS,Interview
+APP0095,Ironclad Manufacturing,Google Sheets,Interview
+APP0095,Ironclad Manufacturing,Data Modeling,Interview
+APP0095,Ironclad Manufacturing,Statistics,Interview
+APP0095,Ironclad Manufacturing,Forecasting,Interview
+APP0095,Ironclad Manufacturing,Communication,Interview
+APP0096,Quartz Data Solutions,A/B Testing,No Response
+APP0096,Quartz Data Solutions,Snowflake,No Response
+APP0096,Quartz Data Solutions,NumPy,No Response
+APP0096,Quartz Data Solutions,Forecasting,No Response
+APP0097,Lighthouse Retail Group,Data Modeling,Rejected
+APP0097,Lighthouse Retail Group,R,Rejected
+APP0097,Lighthouse Retail Group,Power Query,Rejected
+APP0097,Lighthouse Retail Group,SQL,Rejected
+APP0097,Lighthouse Retail Group,Snowflake,Rejected
+APP0098,Parallax Software,DAX,No Response
+APP0098,Parallax Software,Looker,No Response
+APP0098,Parallax Software,Statistics,No Response
+APP0098,Parallax Software,R,No Response
+APP0098,Parallax Software,VBA,No Response
+APP0098,Parallax Software,Google Sheets,No Response
+APP0098,Parallax Software,Data Cleaning,No Response
+APP0098,Parallax Software,Forecasting,No Response
+APP0099,Lighthouse Retail Group,VBA,Rejected
+APP0099,Lighthouse Retail Group,Data Visualization,Rejected
+APP0099,Lighthouse Retail Group,Looker,Rejected
+APP0099,Lighthouse Retail Group,Business Intelligence,Rejected
+APP0099,Lighthouse Retail Group,Pandas,Rejected
+APP0099,Lighthouse Retail Group,NumPy,Rejected
+APP0100,Skyline Retailers,Business Intelligence,Applied
+APP0100,Skyline Retailers,VBA,Applied
+APP0100,Skyline Retailers,DAX,Applied
+APP0100,Skyline Retailers,Forecasting,Applied
+APP0100,Skyline Retailers,Looker,Applied
+APP0100,Skyline Retailers,Pandas,Applied
+APP0101,Marlin Energy,Communication,No Response
+APP0101,Marlin Energy,VBA,No Response
+APP0101,Marlin Energy,Power BI,No Response
+APP0101,Marlin Energy,R,No Response
+APP0101,Marlin Energy,Tableau,No Response
+APP0101,Marlin Energy,Excel,No Response
+APP0102,Vertex Capital Partners,Looker,No Response
+APP0102,Vertex Capital Partners,Business Intelligence,No Response
+APP0102,Vertex Capital Partners,Git,No Response
+APP0102,Vertex Capital Partners,SQL,No Response
+APP0102,Vertex Capital Partners,PivotTables,No Response
+APP0103,Harbor Health Systems,Statistics,Offer
+APP0103,Harbor Health Systems,NumPy,Offer
+APP0103,Harbor Health Systems,Machine Learning,Offer
+APP0103,Harbor Health Systems,Azure,Offer
+APP0104,Bright Path Media,Business Intelligence,Applied
+APP0104,Bright Path Media,Statistics,Applied
+APP0104,Bright Path Media,Forecasting,Applied
+APP0104,Bright Path Media,NumPy,Applied
+APP0105,Skyline Retailers,Data Cleaning,Rejected
+APP0105,Skyline Retailers,Power Query,Rejected
+APP0105,Skyline Retailers,Machine Learning,Rejected
+APP0105,Skyline Retailers,ETL,Rejected
+APP0105,Skyline Retailers,Pandas,Rejected
+APP0105,Skyline Retailers,Statistics,Rejected
+APP0106,Horizon Freight,Communication,No Response
+APP0106,Horizon Freight,Power BI,No Response
+APP0106,Horizon Freight,Azure,No Response
+APP0106,Horizon Freight,NumPy,No Response
+APP0106,Horizon Freight,Data Visualization,No Response
+APP0106,Horizon Freight,AWS,No Response
+APP0107,Bright Path Media,Tableau,Interview
+APP0107,Bright Path Media,PivotTables,Interview
+APP0107,Bright Path Media,Statistics,Interview
+APP0107,Bright Path Media,Google Sheets,Interview
+APP0107,Bright Path Media,Machine Learning,Interview
+APP0107,Bright Path Media,Power BI,Interview
+APP0107,Bright Path Media,R,Interview
+APP0107,Bright Path Media,DAX,Interview
+APP0108,Copper Ridge Insurance,Business Intelligence,No Response
+APP0108,Copper Ridge Insurance,Excel,No Response
+APP0108,Copper Ridge Insurance,Data Cleaning,No Response
+APP0108,Copper Ridge Insurance,Pandas,No Response
+APP0108,Copper Ridge Insurance,Data Modeling,No Response
+APP0108,Copper Ridge Insurance,DAX,No Response
+APP0109,Summit Consulting Partners,Data Visualization,No Response
+APP0109,Summit Consulting Partners,Data Cleaning,No Response
+APP0109,Summit Consulting Partners,Machine Learning,No Response
+APP0109,Summit Consulting Partners,Data Modeling,No Response
+APP0109,Summit Consulting Partners,ETL,No Response
+APP0109,Summit Consulting Partners,Python,No Response
+APP0109,Summit Consulting Partners,R,No Response
+APP0110,Willow Creek Health,Machine Learning,Applied
+APP0110,Willow Creek Health,R,Applied
+APP0110,Willow Creek Health,Business Intelligence,Applied
+APP0110,Willow Creek Health,Looker,Applied
+APP0110,Willow Creek Health,A/B Testing,Applied
+APP0110,Willow Creek Health,ETL,Applied
+APP0111,Amber Logistics,SQL,Rejected
+APP0111,Amber Logistics,Machine Learning,Rejected
+APP0111,Amber Logistics,AWS,Rejected
+APP0111,Amber Logistics,R,Rejected
+APP0111,Amber Logistics,Communication,Rejected
+APP0111,Amber Logistics,Git,Rejected
+APP0111,Amber Logistics,Power Query,Rejected
+APP0111,Amber Logistics,Business Intelligence,Rejected
+APP0112,Cascade Retail Co,NumPy,Rejected
+APP0112,Cascade Retail Co,Pandas,Rejected
+APP0112,Cascade Retail Co,SQL,Rejected
+APP0112,Cascade Retail Co,Looker,Rejected
+APP0112,Cascade Retail Co,Snowflake,Rejected
+APP0112,Cascade Retail Co,PivotTables,Rejected
+APP0112,Cascade Retail Co,Azure,Rejected
+APP0113,Willow Creek Health,VBA,No Response
+APP0113,Willow Creek Health,Power Query,No Response
+APP0113,Willow Creek Health,Data Modeling,No Response
+APP0113,Willow Creek Health,NumPy,No Response
+APP0113,Willow Creek Health,Communication,No Response
+APP0113,Willow Creek Health,Tableau,No Response
+APP0113,Willow Creek Health,Machine Learning,No Response
+APP0113,Willow Creek Health,SQL,No Response
+APP0114,Solstice Software,Data Cleaning,Rejected
+APP0114,Solstice Software,R,Rejected
+APP0114,Solstice Software,AWS,Rejected
+APP0114,Solstice Software,Forecasting,Rejected
+APP0114,Solstice Software,SQL,Rejected
+APP0114,Solstice Software,Python,Rejected
+APP0115,Union Square Bank,Data Cleaning,Applied
+APP0115,Union Square Bank,Power Query,Applied
+APP0115,Union Square Bank,Looker,Applied
+APP0115,Union Square Bank,Statistics,Applied
+APP0115,Union Square Bank,ETL,Applied
+APP0116,Horizon Freight,SQL,No Response
+APP0116,Horizon Freight,Snowflake,No Response
+APP0116,Horizon Freight,Power Query,No Response
+APP0116,Horizon Freight,Business Intelligence,No Response
+APP0116,Horizon Freight,Tableau,No Response
+APP0116,Horizon Freight,Excel,No Response
+APP0116,Horizon Freight,Pandas,No Response
+APP0117,Greenfield Foods,Business Intelligence,No Response
+APP0117,Greenfield Foods,Azure,No Response
+APP0117,Greenfield Foods,Git,No Response
+APP0117,Greenfield Foods,VBA,No Response
+APP0117,Greenfield Foods,Machine Learning,No Response
+APP0117,Greenfield Foods,PivotTables,No Response
+APP0117,Greenfield Foods,Data Visualization,No Response
+APP0118,Trailhead Logistics,Python,Applied
+APP0118,Trailhead Logistics,Communication,Applied
+APP0118,Trailhead Logistics,Tableau,Applied
+APP0118,Trailhead Logistics,Excel,Applied
+APP0118,Trailhead Logistics,DAX,Applied
+APP0119,Cypress Analytics,Looker,No Response
+APP0119,Cypress Analytics,NumPy,No Response
+APP0119,Cypress Analytics,Excel,No Response
+APP0119,Cypress Analytics,Google Sheets,No Response
+APP0119,Cypress Analytics,Communication,No Response
+APP0119,Cypress Analytics,R,No Response
+APP0120,Ironclad Manufacturing,Data Visualization,No Response
+APP0120,Ironclad Manufacturing,Data Cleaning,No Response
+APP0120,Ironclad Manufacturing,Machine Learning,No Response
+APP0120,Ironclad Manufacturing,Snowflake,No Response
+APP0121,Bluepeak Insurance,Azure,Rejected
+APP0121,Bluepeak Insurance,Forecasting,Rejected
+APP0121,Bluepeak Insurance,Statistics,Rejected
+APP0121,Bluepeak Insurance,Snowflake,Rejected
+APP0121,Bluepeak Insurance,Power BI,Rejected
+APP0121,Bluepeak Insurance,Google Sheets,Rejected
+APP0121,Bluepeak Insurance,SQL,Rejected
+APP0122,Summit Consulting Partners,Tableau,Applied
+APP0122,Summit Consulting Partners,ETL,Applied
+APP0122,Summit Consulting Partners,Communication,Applied
+APP0122,Summit Consulting Partners,Data Cleaning,Applied
+APP0122,Summit Consulting Partners,Python,Applied
+APP0122,Summit Consulting Partners,NumPy,Applied
+APP0122,Summit Consulting Partners,PivotTables,Applied
+APP0122,Summit Consulting Partners,Snowflake,Applied
+APP0123,Trailhead Logistics,A/B Testing,Rejected
+APP0123,Trailhead Logistics,Power Query,Rejected
+APP0123,Trailhead Logistics,Data Modeling,Rejected
+APP0123,Trailhead Logistics,Python,Rejected
+APP0124,Cobalt Analytics Inc,R,No Response
+APP0124,Cobalt Analytics Inc,Data Cleaning,No Response
+APP0124,Cobalt Analytics Inc,Python,No Response
+APP0124,Cobalt Analytics Inc,ETL,No Response
+APP0124,Cobalt Analytics Inc,AWS,No Response
+APP0124,Cobalt Analytics Inc,NumPy,No Response
+APP0124,Cobalt Analytics Inc,Power Query,No Response
+APP0124,Cobalt Analytics Inc,Forecasting,No Response
+APP0125,Amber Logistics,Power BI,Applied
+APP0125,Amber Logistics,Tableau,Applied
+APP0125,Amber Logistics,Python,Applied
+APP0125,Amber Logistics,PivotTables,Applied
+APP0125,Amber Logistics,A/B Testing,Applied
+APP0125,Amber Logistics,Machine Learning,Applied
+APP0126,Bluepeak Insurance,Power Query,Rejected
+APP0126,Bluepeak Insurance,Snowflake,Rejected
+APP0126,Bluepeak Insurance,Google Sheets,Rejected
+APP0126,Bluepeak Insurance,PivotTables,Rejected
+APP0126,Bluepeak Insurance,R,Rejected
+APP0126,Bluepeak Insurance,Data Cleaning,Rejected
+APP0126,Bluepeak Insurance,ETL,Rejected
+APP0126,Bluepeak Insurance,Tableau,Rejected
+APP0127,Clearwater Media,AWS,Rejected
+APP0127,Clearwater Media,DAX,Rejected
+APP0127,Clearwater Media,Machine Learning,Rejected
+APP0127,Clearwater Media,Power BI,Rejected
+APP0127,Clearwater Media,Tableau,Rejected
+APP0127,Clearwater Media,NumPy,Rejected
+APP0127,Clearwater Media,Excel,Rejected
+APP0127,Clearwater Media,Data Cleaning,Rejected
+APP0128,Union Square Bank,Data Cleaning,Applied
+APP0128,Union Square Bank,Statistics,Applied
+APP0128,Union Square Bank,NumPy,Applied
+APP0128,Union Square Bank,Business Intelligence,Applied
+APP0128,Union Square Bank,Communication,Applied
+APP0129,Meridian Data Co,Communication,Rejected
+APP0129,Meridian Data Co,DAX,Rejected
+APP0129,Meridian Data Co,Machine Learning,Rejected
+APP0129,Meridian Data Co,NumPy,Rejected
+APP0129,Meridian Data Co,Git,Rejected
+APP0129,Meridian Data Co,Python,Rejected
+APP0129,Meridian Data Co,A/B Testing,Rejected
+APP0130,Amber Logistics,Azure,Offer
+APP0130,Amber Logistics,AWS,Offer
+APP0130,Amber Logistics,SQL,Offer
+APP0130,Amber Logistics,Snowflake,Offer
+APP0130,Amber Logistics,R,Offer
+APP0131,Fieldstone Consulting,Power Query,No Response
+APP0131,Fieldstone Consulting,Machine Learning,No Response
+APP0131,Fieldstone Consulting,Data Visualization,No Response
+APP0131,Fieldstone Consulting,Data Cleaning,No Response
+APP0131,Fieldstone Consulting,Data Modeling,No Response
+APP0131,Fieldstone Consulting,R,No Response
+APP0131,Fieldstone Consulting,Snowflake,No Response
+APP0131,Fieldstone Consulting,Google Sheets,No Response
+APP0132,Anchor Insurance Services,VBA,No Response
+APP0132,Anchor Insurance Services,Data Visualization,No Response
+APP0132,Anchor Insurance Services,Git,No Response
+APP0132,Anchor Insurance Services,Power BI,No Response
+APP0132,Anchor Insurance Services,Machine Learning,No Response
+APP0132,Anchor Insurance Services,Communication,No Response
+APP0132,Anchor Insurance Services,Business Intelligence,No Response
+APP0132,Anchor Insurance Services,Statistics,No Response
+APP0133,Union Square Bank,A/B Testing,No Response
+APP0133,Union Square Bank,Machine Learning,No Response
+APP0133,Union Square Bank,Power Query,No Response
+APP0133,Union Square Bank,Data Cleaning,No Response
+APP0133,Union Square Bank,Azure,No Response
+APP0133,Union Square Bank,PivotTables,No Response
+APP0133,Union Square Bank,Communication,No Response
+APP0133,Union Square Bank,Business Intelligence,No Response
+APP0134,Greenfield Foods,PivotTables,Rejected
+APP0134,Greenfield Foods,Data Visualization,Rejected
+APP0134,Greenfield Foods,Statistics,Rejected
+APP0134,Greenfield Foods,DAX,Rejected
+APP0134,Greenfield Foods,Machine Learning,Rejected
+APP0134,Greenfield Foods,Power BI,Rejected
+APP0134,Greenfield Foods,Pandas,Rejected
+APP0134,Greenfield Foods,VBA,Rejected
+APP0135,Cypress Analytics,Data Visualization,Interview
+APP0135,Cypress Analytics,Communication,Interview
+APP0135,Cypress Analytics,Tableau,Interview
+APP0135,Cypress Analytics,Google Sheets,Interview
+APP0135,Cypress Analytics,Data Cleaning,Interview
+APP0136,Elm Street Foods,AWS,Applied
+APP0136,Elm Street Foods,SQL,Applied
+APP0136,Elm Street Foods,Data Visualization,Applied
+APP0136,Elm Street Foods,Excel,Applied
+APP0136,Elm Street Foods,VBA,Applied
+APP0136,Elm Street Foods,Tableau,Applied
+APP0136,Elm Street Foods,DAX,Applied
+APP0137,Elm Street Foods,Power Query,Applied
+APP0137,Elm Street Foods,Looker,Applied
+APP0137,Elm Street Foods,NumPy,Applied
+APP0137,Elm Street Foods,PivotTables,Applied
+APP0137,Elm Street Foods,Machine Learning,Applied
+APP0137,Elm Street Foods,Snowflake,Applied
+APP0138,Rivergate Bank,Power BI,No Response
+APP0138,Rivergate Bank,Business Intelligence,No Response
+APP0138,Rivergate Bank,Azure,No Response
+APP0138,Rivergate Bank,ETL,No Response
+APP0138,Rivergate Bank,Power Query,No Response
+APP0138,Rivergate Bank,NumPy,No Response
+APP0138,Rivergate Bank,SQL,No Response
+APP0139,Rivergate Bank,Snowflake,Rejected
+APP0139,Rivergate Bank,Data Visualization,Rejected
+APP0139,Rivergate Bank,Looker,Rejected
+APP0139,Rivergate Bank,Pandas,Rejected
+APP0140,Anchor Insurance Services,Power Query,Rejected
+APP0140,Anchor Insurance Services,Tableau,Rejected
+APP0140,Anchor Insurance Services,Communication,Rejected
+APP0140,Anchor Insurance Services,Statistics,Rejected
+APP0140,Anchor Insurance Services,Data Modeling,Rejected
+APP0141,Crestline Insurance,Communication,Applied
+APP0141,Crestline Insurance,Data Visualization,Applied
+APP0141,Crestline Insurance,Machine Learning,Applied
+APP0141,Crestline Insurance,VBA,Applied
+APP0141,Crestline Insurance,Statistics,Applied
+APP0141,Crestline Insurance,Snowflake,Applied
+APP0142,Bright Path Media,Data Modeling,Applied
+APP0142,Bright Path Media,NumPy,Applied
+APP0142,Bright Path Media,Statistics,Applied
+APP0142,Bright Path Media,Looker,Applied
+APP0142,Bright Path Media,Snowflake,Applied
+APP0142,Bright Path Media,Tableau,Applied
+APP0143,Cascade Retail Co,DAX,Applied
+APP0143,Cascade Retail Co,Communication,Applied
+APP0143,Cascade Retail Co,Tableau,Applied
+APP0143,Cascade Retail Co,Azure,Applied
+APP0143,Cascade Retail Co,NumPy,Applied
+APP0143,Cascade Retail Co,PivotTables,Applied
+APP0143,Cascade Retail Co,Pandas,Applied
+APP0144,Clearwater Media,VBA,Rejected
+APP0144,Clearwater Media,Python,Rejected
+APP0144,Clearwater Media,Tableau,Rejected
+APP0144,Clearwater Media,Snowflake,Rejected
+APP0144,Clearwater Media,Power Query,Rejected
+APP0145,Union Square Bank,Power BI,No Response
+APP0145,Union Square Bank,Statistics,No Response
+APP0145,Union Square Bank,Data Visualization,No Response
+APP0145,Union Square Bank,NumPy,No Response
+APP0146,Amber Logistics,AWS,Rejected
+APP0146,Amber Logistics,R,Rejected
+APP0146,Amber Logistics,Machine Learning,Rejected
+APP0146,Amber Logistics,DAX,Rejected
+APP0146,Amber Logistics,Python,Rejected
+APP0146,Amber Logistics,Power BI,Rejected
+APP0146,Amber Logistics,Tableau,Rejected
+APP0147,Fieldstone Consulting,Git,Rejected
+APP0147,Fieldstone Consulting,R,Rejected
+APP0147,Fieldstone Consulting,NumPy,Rejected
+APP0147,Fieldstone Consulting,DAX,Rejected
+APP0148,Anchor Insurance Services,Google Sheets,No Response
+APP0148,Anchor Insurance Services,Excel,No Response
+APP0148,Anchor Insurance Services,Data Visualization,No Response
+APP0148,Anchor Insurance Services,Statistics,No Response
+APP0149,Vantage Point Capital,Forecasting,Applied
+APP0149,Vantage Point Capital,Data Cleaning,Applied
+APP0149,Vantage Point Capital,Google Sheets,Applied
+APP0149,Vantage Point Capital,NumPy,Applied
+APP0150,Skyline Retailers,Forecasting,Applied
+APP0150,Skyline Retailers,Tableau,Applied
+APP0150,Skyline Retailers,Looker,Applied
+APP0150,Skyline Retailers,Statistics,Applied
+APP0150,Skyline Retailers,Data Cleaning,Applied
+APP0151,Fieldstone Consulting,Power BI,Applied
+APP0151,Fieldstone Consulting,Excel,Applied
+APP0151,Fieldstone Consulting,Communication,Applied
+APP0151,Fieldstone Consulting,Tableau,Applied
+APP0151,Fieldstone Consulting,PivotTables,Applied
+APP0152,Solstice Software,Machine Learning,Rejected
+APP0152,Solstice Software,Google Sheets,Rejected
+APP0152,Solstice Software,Data Visualization,Rejected
+APP0152,Solstice Software,SQL,Rejected
+APP0152,Solstice Software,VBA,Rejected
+APP0152,Solstice Software,Snowflake,Rejected
+APP0152,Solstice Software,PivotTables,Rejected
+APP0153,Rivergate Bank,Power Query,Interview
+APP0153,Rivergate Bank,A/B Testing,Interview
+APP0153,Rivergate Bank,Business Intelligence,Interview
+APP0153,Rivergate Bank,Statistics,Interview
+APP0153,Rivergate Bank,Pandas,Interview
+APP0153,Rivergate Bank,Python,Interview
+APP0154,Beacon Hill Hospital,DAX,Rejected
+APP0154,Beacon Hill Hospital,NumPy,Rejected
+APP0154,Beacon Hill Hospital,Snowflake,Rejected
+APP0154,Beacon Hill Hospital,Data Modeling,Rejected
+APP0154,Beacon Hill Hospital,Business Intelligence,Rejected
+APP0154,Beacon Hill Hospital,AWS,Rejected
+APP0155,Greenfield Foods,Azure,Applied
+APP0155,Greenfield Foods,Data Modeling,Applied
+APP0155,Greenfield Foods,Communication,Applied
+APP0155,Greenfield Foods,Excel,Applied
+APP0155,Greenfield Foods,Statistics,Applied
+APP0155,Greenfield Foods,ETL,Applied
+APP0156,Beacon Hill Hospital,Machine Learning,Rejected
+APP0156,Beacon Hill Hospital,Business Intelligence,Rejected
+APP0156,Beacon Hill Hospital,Python,Rejected
+APP0156,Beacon Hill Hospital,Snowflake,Rejected
+APP0156,Beacon Hill Hospital,Power BI,Rejected
+APP0156,Beacon Hill Hospital,Google Sheets,Rejected
+APP0157,Crestline Insurance,Statistics,No Response
+APP0157,Crestline Insurance,Machine Learning,No Response
+APP0157,Crestline Insurance,Pandas,No Response
+APP0157,Crestline Insurance,Power Query,No Response
+APP0157,Crestline Insurance,Python,No Response
+APP0157,Crestline Insurance,DAX,No Response
+APP0158,Clearwater Media,Git,No Response
+APP0158,Clearwater Media,Power BI,No Response
+APP0158,Clearwater Media,Python,No Response
+APP0158,Clearwater Media,PivotTables,No Response
+APP0158,Clearwater Media,R,No Response
+APP0158,Clearwater Media,NumPy,No Response
+APP0159,Cobalt Analytics Inc,Excel,No Response
+APP0159,Cobalt Analytics Inc,Data Cleaning,No Response
+APP0159,Cobalt Analytics Inc,Git,No Response
+APP0159,Cobalt Analytics Inc,Machine Learning,No Response
+APP0159,Cobalt Analytics Inc,Looker,No Response
+APP0160,Solstice Software,Snowflake,Applied
+APP0160,Solstice Software,Pandas,Applied
+APP0160,Solstice Software,Data Modeling,Applied
+APP0160,Solstice Software,Python,Applied
+APP0161,Copper Ridge Insurance,A/B Testing,Applied
+APP0161,Copper Ridge Insurance,Data Modeling,Applied
+APP0161,Copper Ridge Insurance,Business Intelligence,Applied
+APP0161,Copper Ridge Insurance,Data Cleaning,Applied
+APP0161,Copper Ridge Insurance,VBA,Applied
+APP0161,Copper Ridge Insurance,Excel,Applied
+APP0161,Copper Ridge Insurance,ETL,Applied
+APP0161,Copper Ridge Insurance,Git,Applied
+APP0162,Copper Ridge Insurance,VBA,No Response
+APP0162,Copper Ridge Insurance,SQL,No Response
+APP0162,Copper Ridge Insurance,Python,No Response
+APP0162,Copper Ridge Insurance,Pandas,No Response
+APP0162,Copper Ridge Insurance,Data Cleaning,No Response
+APP0162,Copper Ridge Insurance,Tableau,No Response
+APP0162,Copper Ridge Insurance,A/B Testing,No Response
+APP0162,Copper Ridge Insurance,DAX,No Response
+APP0163,Trailhead Logistics,Statistics,No Response
+APP0163,Trailhead Logistics,Data Cleaning,No Response
+APP0163,Trailhead Logistics,Pandas,No Response
+APP0163,Trailhead Logistics,PivotTables,No Response
+APP0163,Trailhead Logistics,Excel,No Response
+APP0163,Trailhead Logistics,Git,No Response
+APP0163,Trailhead Logistics,AWS,No Response
+APP0163,Trailhead Logistics,Power Query,No Response
+APP0164,Vertex Capital Partners,Snowflake,Offer
+APP0164,Vertex Capital Partners,Excel,Offer
+APP0164,Vertex Capital Partners,Communication,Offer
+APP0164,Vertex Capital Partners,Forecasting,Offer
+APP0164,Vertex Capital Partners,Data Visualization,Offer
+APP0164,Vertex Capital Partners,Git,Offer
+APP0165,Elm Street Foods,Excel,Applied
+APP0165,Elm Street Foods,Statistics,Applied
+APP0165,Elm Street Foods,AWS,Applied
+APP0165,Elm Street Foods,DAX,Applied
+APP0165,Elm Street Foods,Tableau,Applied
+APP0165,Elm Street Foods,Data Modeling,Applied
+APP0165,Elm Street Foods,PivotTables,Applied
+APP0166,Amber Logistics,Tableau,No Response
+APP0166,Amber Logistics,PivotTables,No Response
+APP0166,Amber Logistics,Business Intelligence,No Response
+APP0166,Amber Logistics,A/B Testing,No Response
+APP0166,Amber Logistics,Azure,No Response
+APP0166,Amber Logistics,VBA,No Response
+APP0167,Marlin Energy,Data Cleaning,No Response
+APP0167,Marlin Energy,ETL,No Response
+APP0167,Marlin Energy,Snowflake,No Response
+APP0167,Marlin Energy,SQL,No Response
+APP0167,Marlin Energy,PivotTables,No Response
+APP0167,Marlin Energy,AWS,No Response
+APP0167,Marlin Energy,Statistics,No Response
+APP0167,Marlin Energy,Communication,No Response
+APP0168,Amber Logistics,Business Intelligence,Offer
+APP0168,Amber Logistics,Excel,Offer
+APP0168,Amber Logistics,SQL,Offer
+APP0168,Amber Logistics,Data Cleaning,Offer
+APP0169,Elm Street Foods,Statistics,Rejected
+APP0169,Elm Street Foods,Pandas,Rejected
+APP0169,Elm Street Foods,Power BI,Rejected
+APP0169,Elm Street Foods,Python,Rejected
+APP0170,Summit Consulting Partners,A/B Testing,Interview
+APP0170,Summit Consulting Partners,Communication,Interview
+APP0170,Summit Consulting Partners,Looker,Interview
+APP0170,Summit Consulting Partners,Business Intelligence,Interview
+APP0170,Summit Consulting Partners,Pandas,Interview
+APP0171,Skyline Retailers,VBA,Applied
+APP0171,Skyline Retailers,DAX,Applied
+APP0171,Skyline Retailers,Power BI,Applied
+APP0171,Skyline Retailers,Excel,Applied
+APP0171,Skyline Retailers,Data Modeling,Applied
+APP0171,Skyline Retailers,PivotTables,Applied
+APP0171,Skyline Retailers,Azure,Applied
+APP0171,Skyline Retailers,NumPy,Applied
+APP0172,Skyline Retailers,Machine Learning,Rejected
+APP0172,Skyline Retailers,SQL,Rejected
+APP0172,Skyline Retailers,Pandas,Rejected
+APP0172,Skyline Retailers,Power Query,Rejected
+APP0172,Skyline Retailers,Data Modeling,Rejected
+APP0173,Ironclad Manufacturing,Snowflake,Offer
+APP0173,Ironclad Manufacturing,Google Sheets,Offer
+APP0173,Ironclad Manufacturing,Forecasting,Offer
+APP0173,Ironclad Manufacturing,Git,Offer
+APP0173,Ironclad Manufacturing,R,Offer
+APP0173,Ironclad Manufacturing,AWS,Offer
+APP0173,Ironclad Manufacturing,Tableau,Offer
+APP0173,Ironclad Manufacturing,Power BI,Offer
+APP0174,Greenfield Foods,Python,No Response
+APP0174,Greenfield Foods,Data Cleaning,No Response
+APP0174,Greenfield Foods,Looker,No Response
+APP0174,Greenfield Foods,Statistics,No Response
+APP0175,Cypress Analytics,ETL,No Response
+APP0175,Cypress Analytics,Power BI,No Response
+APP0175,Cypress Analytics,Forecasting,No Response
+APP0175,Cypress Analytics,NumPy,No Response
+APP0175,Cypress Analytics,Looker,No Response
+APP0175,Cypress Analytics,Data Visualization,No Response
+APP0175,Cypress Analytics,A/B Testing,No Response
+APP0175,Cypress Analytics,Pandas,No Response
+APP0176,Meridian Data Co,Business Intelligence,Rejected
+APP0176,Meridian Data Co,VBA,Rejected
+APP0176,Meridian Data Co,Pandas,Rejected
+APP0176,Meridian Data Co,Data Visualization,Rejected
+APP0177,Elm Street Foods,Git,Offer
+APP0177,Elm Street Foods,Data Visualization,Offer
+APP0177,Elm Street Foods,SQL,Offer
+APP0177,Elm Street Foods,Google Sheets,Offer
+APP0177,Elm Street Foods,PivotTables,Offer
+APP0177,Elm Street Foods,Python,Offer
+APP0177,Elm Street Foods,NumPy,Offer
+APP0177,Elm Street Foods,ETL,Offer
+APP0178,Greenfield Foods,Snowflake,Interview
+APP0178,Greenfield Foods,Looker,Interview
+APP0178,Greenfield Foods,Data Visualization,Interview
+APP0178,Greenfield Foods,Forecasting,Interview
+APP0178,Greenfield Foods,PivotTables,Interview
+APP0178,Greenfield Foods,Pandas,Interview
+APP0178,Greenfield Foods,Python,Interview
+APP0179,Crestline Insurance,Azure,Rejected
+APP0179,Crestline Insurance,PivotTables,Rejected
+APP0179,Crestline Insurance,AWS,Rejected
+APP0179,Crestline Insurance,Forecasting,Rejected
+APP0179,Crestline Insurance,Excel,Rejected
+APP0180,Meridian Data Co,Data Cleaning,No Response
+APP0180,Meridian Data Co,Snowflake,No Response
+APP0180,Meridian Data Co,Power BI,No Response
+APP0180,Meridian Data Co,Excel,No Response
+APP0180,Meridian Data Co,Google Sheets,No Response
+APP0180,Meridian Data Co,R,No Response
+APP0180,Meridian Data Co,Data Visualization,No Response
+APP0180,Meridian Data Co,Looker,No Response
+APP0181,Ironclad Manufacturing,DAX,No Response
+APP0181,Ironclad Manufacturing,Tableau,No Response
+APP0181,Ironclad Manufacturing,Google Sheets,No Response
+APP0181,Ironclad Manufacturing,ETL,No Response
+APP0181,Ironclad Manufacturing,Power Query,No Response
+APP0181,Ironclad Manufacturing,SQL,No Response
+APP0182,Beacon Financial Group,R,No Response
+APP0182,Beacon Financial Group,Looker,No Response
+APP0182,Beacon Financial Group,Azure,No Response
+APP0182,Beacon Financial Group,Forecasting,No Response
+APP0182,Beacon Financial Group,VBA,No Response
+APP0183,Foundry Manufacturing,Data Visualization,Rejected
+APP0183,Foundry Manufacturing,Power Query,Rejected
+APP0183,Foundry Manufacturing,Business Intelligence,Rejected
+APP0183,Foundry Manufacturing,Git,Rejected
+APP0183,Foundry Manufacturing,NumPy,Rejected
+APP0184,Marlin Energy,Power BI,Applied
+APP0184,Marlin Energy,R,Applied
+APP0184,Marlin Energy,Data Cleaning,Applied
+APP0184,Marlin Energy,Google Sheets,Applied
+APP0184,Marlin Energy,NumPy,Applied
+APP0184,Marlin Energy,A/B Testing,Applied
+APP0184,Marlin Energy,SQL,Applied
+APP0184,Marlin Energy,Tableau,Applied
+APP0185,Crestline Insurance,Excel,Rejected
+APP0185,Crestline Insurance,Machine Learning,Rejected
+APP0185,Crestline Insurance,Pandas,Rejected
+APP0185,Crestline Insurance,DAX,Rejected

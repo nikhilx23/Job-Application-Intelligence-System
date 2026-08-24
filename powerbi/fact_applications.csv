@@ -1,0 +1,186 @@
+application_id,company,role_title,location,date_applied,source,resume_id,salary_min,salary_max,status,response_date,interview_date,response_time_days
+APP0001,Rivergate Bank,Data Analyst,Remote,2026-03-30,Glassdoor,1,,,Applied,,,
+APP0002,Marlin Energy,BI Analyst,"Minneapolis, MN",2026-08-14,Handshake,1,65000,72000,Rejected,,,
+APP0003,Trailhead Logistics,Junior Data Analyst,"Dallas, TX",2026-04-17,LinkedIn,3,62000,68000,Rejected,2026-04-19,,2
+APP0004,Nimbus Cloud Systems,BI Analyst,Remote,2026-02-19,ZipRecruiter,3,55000,82000,Rejected,2026-02-25,,6
+APP0005,Skyline Retailers,BI Analyst,"Chicago, IL",2026-08-03,Indeed,3,68000,75000,No Response,,,
+APP0006,Skyline Retailers,Data Analyst Intern,"Columbus, OH",2026-06-07,Indeed,3,,,Applied,,,
+APP0007,Foundry Manufacturing,Data Analyst,"Indianapolis, IN",2026-07-25,ZipRecruiter,1,,,Interview,2026-08-08,2026-08-13,14
+APP0008,Elm Street Foods,Data Analyst,"Chicago, IL",2026-04-03,Glassdoor,2,52000,62000,Applied,,,
+APP0009,Stonebridge Consulting,Junior Business Intelligence Analyst,"Columbus, OH",2026-07-27,Referral,3,60000,75000,Applied,,,
+APP0010,Northwind Analytics,Junior Data Analyst,Remote,2026-03-31,ZipRecruiter,1,,,Applied,,,
+APP0011,Vertex Capital Partners,Junior Business Intelligence Analyst,"Columbus, OH",2026-07-19,LinkedIn,1,65000,75000,No Response,,,
+APP0012,Greenfield Foods,Operations Data Analyst,"Charlotte, NC",2026-03-19,Indeed,2,58000,62000,No Response,,,
+APP0013,Cascade Retail Co,Business Analyst,"Dallas, TX",2026-04-09,LinkedIn,2,68000,70000,Interview,2026-04-27,2026-04-18,18
+APP0014,Summit Consulting Partners,Data Analyst I,"Chicago, IL",2026-05-15,ZipRecruiter,1,58000,58000,Applied,,,
+APP0015,Solstice Software,BI Analyst,"Charlotte, NC",2026-02-03,Glassdoor,1,52000,62000,No Response,,,
+APP0016,Beacon Hill Hospital,Data Analyst,"Indianapolis, IN",2026-04-18,Handshake,3,52000,65000,Interview,2026-04-22,2026-05-01,4
+APP0017,Lighthouse Retail Group,Business Analyst,Remote,2026-07-31,Company Website,3,,,No Response,,,
+APP0018,Horizon Freight,Data Analyst,"Atlanta, GA",2026-04-05,Indeed,3,62000,82000,Rejected,2026-04-19,,14
+APP0019,Parallax Software,Reporting Analyst,"Denver, CO",2026-02-28,Indeed,3,48000,78000,No Response,,,
+APP0020,Meridian Data Co,Data Analyst Intern,"Indianapolis, IN",2026-07-24,Referral,2,70000,72000,Offer,2026-07-28,2026-08-03,4
+APP0021,Fieldstone Consulting,Data Analyst,"Phoenix, AZ",2026-07-26,Handshake,3,58000,72000,Rejected,2026-08-06,,11
+APP0022,Greenfield Foods,Junior Business Intelligence Analyst,"Indianapolis, IN",2026-08-11,Company Website,3,60000,75000,Interview,2026-08-12,,1
+APP0023,Quartz Data Solutions,Marketing Data Analyst,"Minneapolis, MN",2026-03-16,Handshake,3,60000,82000,Rejected,2026-04-05,,20
+APP0024,Harbor Health Systems,Reporting Analyst,"Charlotte, NC",2026-05-28,Referral,1,58000,75000,No Response,,,
+APP0025,Beacon Hill Hospital,Marketing Data Analyst,Remote,2026-03-04,Referral,1,68000,82000,No Response,,,
+APP0026,Pioneer Energy Corp,BI Analyst,"Minneapolis, MN",2026-06-05,Handshake,3,,,Rejected,2026-06-15,,10
+APP0027,Summit Consulting Partners,Junior Business Intelligence Analyst,"Dallas, TX",2026-05-31,Glassdoor,3,58000,75000,No Response,,,
+APP0028,Trailhead Logistics,Data Analyst I,"Columbus, OH",2026-04-11,Company Website,1,48000,75000,No Response,,,
+APP0029,Fieldstone Consulting,Business Analyst,"Tampa, FL",2026-02-13,Company Website,1,62000,68000,No Response,,,
+APP0030,Willow Creek Health,Reporting Analyst,"Indianapolis, IN",2026-02-11,LinkedIn,3,58000,68000,Rejected,2026-03-03,,20
+APP0031,Clearwater Media,Data Analyst I,Remote,2026-03-02,ZipRecruiter,3,,,Rejected,2026-03-03,,1
+APP0032,Stonebridge Consulting,Junior Data Analyst,"Minneapolis, MN",2026-04-30,Referral,1,62000,62000,No Response,,,
+APP0033,Fieldstone Consulting,Business Analyst,Remote,2026-04-11,Referral,3,70000,78000,Rejected,2026-04-30,,19
+APP0034,Elm Street Foods,Data Analyst Intern,"Austin, TX",2026-05-02,Company Website,1,62000,70000,Rejected,2026-05-11,,9
+APP0035,Beacon Financial Group,Junior Data Analyst,"Denver, CO",2026-07-28,Indeed,2,62000,78000,No Response,,,
+APP0036,Greenfield Foods,Data Analyst Intern,"Chicago, IL",2026-08-15,ZipRecruiter,3,58000,68000,Rejected,,,
+APP0037,Solstice Software,BI Analyst,Remote,2026-04-16,LinkedIn,3,,,Rejected,2026-04-17,,1
+APP0038,Crestline Insurance,Data Analyst,"Austin, TX",2026-04-19,Indeed,3,58000,62000,Applied,,,
+APP0039,Fieldstone Consulting,BI Analyst,Remote,2026-07-07,Referral,1,52000,68000,Offer,2026-07-16,2026-07-17,9
+APP0040,Sterling Healthcare Group,BI Analyst,"Minneapolis, MN",2026-07-01,Handshake,3,,,Rejected,2026-07-09,,8
+APP0041,Bright Path Media,BI Analyst,Remote,2026-06-09,Company Website,2,62000,68000,No Response,,,
+APP0042,Meridian Data Co,Data Analyst I,Remote,2026-06-01,Handshake,1,68000,70000,No Response,,,
+APP0043,Elm Street Foods,BI Analyst,"Indianapolis, IN",2026-02-10,Company Website,3,62000,70000,No Response,,,
+APP0044,Elm Street Foods,Marketing Data Analyst,"Minneapolis, MN",2026-04-10,LinkedIn,1,60000,78000,No Response,,,
+APP0045,Rivergate Bank,Marketing Data Analyst,"Chicago, IL",2026-06-08,ZipRecruiter,1,60000,82000,Interview,2026-06-22,2026-06-28,14
+APP0046,Marlin Energy,Marketing Data Analyst,"Tampa, FL",2026-06-18,Indeed,2,62000,82000,No Response,,,
+APP0047,Vertex Capital Partners,Junior Business Intelligence Analyst,"Dallas, TX",2026-03-11,ZipRecruiter,3,48000,65000,No Response,,,
+APP0048,Lighthouse Retail Group,Data Analyst Intern,Remote,2026-07-17,ZipRecruiter,2,62000,82000,Applied,,,
+APP0049,Bluepeak Insurance,Junior Business Intelligence Analyst,"Chicago, IL",2026-07-31,Handshake,3,65000,68000,Interview,2026-08-01,2026-08-15,1
+APP0050,Granite Manufacturing,Data Analyst I,"Indianapolis, IN",2026-06-30,Indeed,2,68000,70000,Applied,,,
+APP0051,Marlin Energy,BI Analyst,"Indianapolis, IN",2026-04-06,Company Website,3,60000,68000,No Response,,,
+APP0052,Crestline Insurance,Data Analyst,Remote,2026-04-15,ZipRecruiter,2,58000,72000,Rejected,2026-04-22,,7
+APP0053,Bluepeak Insurance,BI Analyst,"Atlanta, GA",2026-03-17,ZipRecruiter,2,70000,72000,Applied,,,
+APP0054,Sterling Healthcare Group,Junior Business Intelligence Analyst,"Tampa, FL",2026-05-05,Handshake,3,58000,65000,Applied,,,
+APP0055,Horizon Freight,Junior Data Analyst,"Indianapolis, IN",2026-02-07,Indeed,2,70000,72000,Rejected,2026-02-15,,8
+APP0056,Pioneer Energy Corp,Operations Data Analyst,"Austin, TX",2026-05-06,Company Website,2,70000,75000,Rejected,2026-05-11,,5
+APP0057,Copper Ridge Insurance,Reporting Analyst,"Tampa, FL",2026-07-26,Glassdoor,1,58000,62000,No Response,,,
+APP0058,Union Square Bank,Reporting Analyst,"Austin, TX",2026-03-25,Handshake,3,68000,70000,Applied,,,
+APP0059,Trailhead Logistics,BI Analyst,"Minneapolis, MN",2026-07-20,Indeed,1,55000,58000,Interview,2026-07-28,2026-07-25,8
+APP0060,Sterling Healthcare Group,Data Analyst I,Remote,2026-06-14,ZipRecruiter,3,48000,58000,No Response,,,
+APP0061,Meridian Data Co,Data Analyst I,"Indianapolis, IN",2026-08-02,Referral,3,70000,70000,No Response,,,
+APP0062,Sterling Healthcare Group,Junior Business Intelligence Analyst,"Atlanta, GA",2026-05-14,Handshake,2,52000,72000,No Response,,,
+APP0063,Horizon Freight,Business Analyst,"Phoenix, AZ",2026-06-24,LinkedIn,3,52000,75000,Rejected,2026-07-08,,14
+APP0064,Ironclad Manufacturing,Data Analyst Intern,"Tampa, FL",2026-03-02,Referral,2,58000,75000,Rejected,2026-03-22,,20
+APP0065,Crestline Insurance,Junior Business Intelligence Analyst,"Chicago, IL",2026-07-13,Indeed,3,52000,82000,Offer,2026-07-27,2026-07-28,14
+APP0066,Fieldstone Consulting,Marketing Data Analyst,Remote,2026-04-11,Company Website,2,62000,70000,Applied,,,
+APP0067,Stonebridge Consulting,Data Analyst,Remote,2026-03-27,Indeed,2,60000,70000,Rejected,2026-03-28,,1
+APP0068,Harbor Health Systems,Junior Business Intelligence Analyst,Remote,2026-04-22,Company Website,1,65000,75000,Rejected,2026-05-05,,13
+APP0069,Marlin Energy,Junior Business Intelligence Analyst,"Phoenix, AZ",2026-04-21,LinkedIn,2,58000,72000,Rejected,2026-04-24,,3
+APP0070,Amber Logistics,Junior Data Analyst,"Austin, TX",2026-06-07,Handshake,3,68000,72000,No Response,,,
+APP0071,Summit Consulting Partners,BI Analyst,"Charlotte, NC",2026-02-15,Company Website,1,60000,62000,No Response,,,
+APP0072,Crestline Insurance,Reporting Analyst,"Atlanta, GA",2026-06-09,Referral,2,,,Applied,,,
+APP0073,Cypress Analytics,Business Analyst,"Atlanta, GA",2026-05-11,Glassdoor,2,58000,62000,No Response,,,
+APP0074,Marlin Energy,Business Analyst,"Atlanta, GA",2026-07-29,Glassdoor,3,55000,62000,Rejected,2026-08-11,,13
+APP0075,Beacon Financial Group,Data Analyst Intern,"Denver, CO",2026-04-29,Indeed,1,68000,68000,Interview,2026-05-04,2026-05-06,5
+APP0076,Harbor Health Systems,Junior Business Intelligence Analyst,"Atlanta, GA",2026-04-02,ZipRecruiter,3,60000,78000,Offer,2026-04-10,2026-04-22,8
+APP0077,Foundry Manufacturing,Junior Data Analyst,Remote,2026-03-04,Handshake,3,55000,70000,No Response,,,
+APP0078,Bluepeak Insurance,Data Analyst Intern,"Columbus, OH",2026-02-26,LinkedIn,2,,,Interview,2026-03-08,2026-03-25,10
+APP0079,Rivergate Bank,Data Analyst,"Columbus, OH",2026-07-10,Company Website,3,52000,78000,No Response,,,
+APP0080,Willow Creek Health,Reporting Analyst,Remote,2026-07-21,Company Website,1,,,Rejected,2026-08-07,,17
+APP0081,Ironclad Manufacturing,Data Analyst I,Remote,2026-03-07,Handshake,2,70000,72000,Applied,,,
+APP0082,Bright Path Media,Data Analyst,"Denver, CO",2026-03-24,Indeed,1,62000,70000,Interview,2026-04-11,2026-04-06,18
+APP0083,Vantage Point Capital,Marketing Data Analyst,Remote,2026-06-13,Company Website,2,,,No Response,,,
+APP0084,Fieldstone Consulting,Business Analyst,Remote,2026-05-26,Company Website,2,62000,75000,Applied,,,
+APP0085,Amber Logistics,Data Analyst I,"Indianapolis, IN",2026-02-09,Handshake,2,58000,72000,Applied,,,
+APP0086,Meridian Data Co,Reporting Analyst,"Chicago, IL",2026-03-20,LinkedIn,3,,,No Response,,,
+APP0087,Copper Ridge Insurance,Business Analyst,Remote,2026-07-25,Company Website,1,62000,72000,Offer,2026-08-12,2026-08-08,18
+APP0088,Skyline Retailers,Marketing Data Analyst,"Phoenix, AZ",2026-06-28,Company Website,2,62000,62000,Applied,,,
+APP0089,Beacon Hill Hospital,Business Analyst,"Denver, CO",2026-04-24,Indeed,1,58000,72000,Interview,2026-05-11,2026-05-01,17
+APP0090,Cypress Analytics,Data Analyst I,"Atlanta, GA",2026-02-11,Handshake,3,,,Rejected,2026-03-04,,21
+APP0091,Redwood Consulting,Marketing Data Analyst,"Columbus, OH",2026-05-15,Handshake,3,,,No Response,,,
+APP0092,Solstice Software,Data Analyst Intern,"Phoenix, AZ",2026-04-23,Referral,1,52000,70000,No Response,,,
+APP0093,Crestline Insurance,Data Analyst Intern,"Columbus, OH",2026-06-08,Handshake,1,68000,78000,Offer,2026-06-24,2026-06-15,16
+APP0094,Lighthouse Retail Group,Data Analyst Intern,"Minneapolis, MN",2026-02-12,Company Website,2,68000,70000,No Response,,,
+APP0095,Ironclad Manufacturing,Junior Business Intelligence Analyst,"Atlanta, GA",2026-06-23,Handshake,2,55000,68000,Interview,2026-07-06,2026-06-29,13
+APP0096,Quartz Data Solutions,Operations Data Analyst,"Phoenix, AZ",2026-06-25,Company Website,3,48000,72000,No Response,,,
+APP0097,Lighthouse Retail Group,Data Analyst I,Remote,2026-02-14,Indeed,3,55000,82000,Rejected,2026-03-06,,20
+APP0098,Parallax Software,Business Analyst,"Dallas, TX",2026-05-17,ZipRecruiter,1,58000,68000,No Response,,,
+APP0099,Lighthouse Retail Group,Data Analyst I,"Charlotte, NC",2026-04-13,Indeed,1,58000,70000,Rejected,2026-04-20,,7
+APP0100,Skyline Retailers,Data Analyst Intern,"Minneapolis, MN",2026-04-16,Handshake,1,52000,72000,Applied,,,
+APP0101,Marlin Energy,Reporting Analyst,"Columbus, OH",2026-06-16,LinkedIn,3,,,No Response,,,
+APP0102,Vertex Capital Partners,Marketing Data Analyst,"Indianapolis, IN",2026-04-24,Indeed,2,48000,62000,No Response,,,
+APP0103,Harbor Health Systems,Junior Business Intelligence Analyst,"Minneapolis, MN",2026-08-11,Company Website,1,,,Offer,,,
+APP0104,Bright Path Media,BI Analyst,"Columbus, OH",2026-04-26,Handshake,1,68000,70000,Applied,,,
+APP0105,Skyline Retailers,Junior Business Intelligence Analyst,"Phoenix, AZ",2026-05-14,Glassdoor,1,55000,65000,Rejected,2026-05-22,,8
+APP0106,Horizon Freight,Reporting Analyst,Remote,2026-05-31,ZipRecruiter,1,65000,82000,No Response,,,
+APP0107,Bright Path Media,Data Analyst I,"Atlanta, GA",2026-06-21,Company Website,3,68000,70000,Interview,2026-07-11,2026-07-12,20
+APP0108,Copper Ridge Insurance,Data Analyst,"Charlotte, NC",2026-05-18,Indeed,3,48000,82000,No Response,,,
+APP0109,Summit Consulting Partners,Operations Data Analyst,Remote,2026-02-09,LinkedIn,2,55000,65000,No Response,,,
+APP0110,Willow Creek Health,Junior Data Analyst,"Austin, TX",2026-06-16,Referral,2,58000,58000,Applied,,,
+APP0111,Amber Logistics,BI Analyst,"Columbus, OH",2026-02-09,ZipRecruiter,1,58000,65000,Rejected,2026-02-12,,3
+APP0112,Cascade Retail Co,Business Analyst,"Phoenix, AZ",2026-08-07,Glassdoor,1,62000,68000,Rejected,2026-08-12,,5
+APP0113,Willow Creek Health,Junior Business Intelligence Analyst,"Minneapolis, MN",2026-07-29,Referral,2,55000,70000,No Response,,,
+APP0114,Solstice Software,Junior Business Intelligence Analyst,"Columbus, OH",2026-04-26,Glassdoor,1,,,Rejected,2026-05-03,,7
+APP0115,Union Square Bank,BI Analyst,Remote,2026-08-09,Indeed,1,68000,68000,Applied,,,
+APP0116,Horizon Freight,Operations Data Analyst,"Charlotte, NC",2026-08-04,Company Website,1,62000,68000,No Response,,,
+APP0117,Greenfield Foods,Data Analyst Intern,"Columbus, OH",2026-04-04,Company Website,3,62000,70000,No Response,,,
+APP0118,Trailhead Logistics,Data Analyst,"Phoenix, AZ",2026-07-22,LinkedIn,1,,,Applied,,,
+APP0119,Cypress Analytics,Marketing Data Analyst,"Indianapolis, IN",2026-02-02,Company Website,1,,,No Response,,,
+APP0120,Ironclad Manufacturing,Operations Data Analyst,"Austin, TX",2026-07-09,Indeed,1,62000,70000,No Response,,,
+APP0121,Bluepeak Insurance,Data Analyst,"Chicago, IL",2026-05-08,Company Website,2,48000,58000,Rejected,2026-05-11,,3
+APP0122,Summit Consulting Partners,BI Analyst,"Phoenix, AZ",2026-02-09,Referral,3,58000,62000,Applied,,,
+APP0123,Trailhead Logistics,Data Analyst Intern,"Dallas, TX",2026-03-08,Handshake,3,52000,82000,Rejected,2026-03-20,,12
+APP0124,Cobalt Analytics Inc,Data Analyst,"Indianapolis, IN",2026-06-06,Glassdoor,2,70000,75000,No Response,,,
+APP0125,Amber Logistics,Junior Business Intelligence Analyst,"Atlanta, GA",2026-02-24,Glassdoor,1,60000,78000,Applied,,,
+APP0126,Bluepeak Insurance,Data Analyst Intern,"Phoenix, AZ",2026-07-04,LinkedIn,3,58000,65000,Rejected,2026-07-17,,13
+APP0127,Clearwater Media,Junior Business Intelligence Analyst,"Denver, CO",2026-06-04,Company Website,2,62000,70000,Rejected,2026-06-25,,21
+APP0128,Union Square Bank,Marketing Data Analyst,"Atlanta, GA",2026-07-03,Company Website,3,62000,68000,Applied,,,
+APP0129,Meridian Data Co,Junior Business Intelligence Analyst,"Atlanta, GA",2026-03-24,LinkedIn,3,65000,70000,Rejected,2026-04-11,,18
+APP0130,Amber Logistics,Junior Business Intelligence Analyst,"Minneapolis, MN",2026-05-26,Company Website,1,68000,75000,Offer,2026-06-09,2026-06-11,14
+APP0131,Fieldstone Consulting,Junior Data Analyst,Remote,2026-03-29,LinkedIn,2,70000,82000,No Response,,,
+APP0132,Anchor Insurance Services,Junior Business Intelligence Analyst,"Chicago, IL",2026-03-09,LinkedIn,3,62000,78000,No Response,,,
+APP0133,Union Square Bank,Junior Data Analyst,"Indianapolis, IN",2026-08-09,Handshake,1,,,No Response,,,
+APP0134,Greenfield Foods,Marketing Data Analyst,Remote,2026-02-02,Company Website,2,58000,70000,Rejected,2026-02-05,,3
+APP0135,Cypress Analytics,Junior Business Intelligence Analyst,Remote,2026-05-02,LinkedIn,2,55000,70000,Interview,2026-05-21,2026-05-28,19
+APP0136,Elm Street Foods,Operations Data Analyst,Remote,2026-06-23,ZipRecruiter,1,60000,65000,Applied,,,
+APP0137,Elm Street Foods,Junior Business Intelligence Analyst,Remote,2026-06-06,Handshake,2,48000,68000,Applied,,,
+APP0138,Rivergate Bank,Data Analyst I,"Chicago, IL",2026-05-05,Glassdoor,3,48000,78000,No Response,,,
+APP0139,Rivergate Bank,Reporting Analyst,"Columbus, OH",2026-07-01,Handshake,3,65000,65000,Rejected,2026-07-08,,7
+APP0140,Anchor Insurance Services,BI Analyst,Remote,2026-07-24,Glassdoor,3,55000,75000,Rejected,2026-08-02,,9
+APP0141,Crestline Insurance,BI Analyst,"Indianapolis, IN",2026-05-27,Company Website,2,52000,75000,Applied,,,
+APP0142,Bright Path Media,Data Analyst Intern,"Tampa, FL",2026-05-13,LinkedIn,3,65000,68000,Applied,,,
+APP0143,Cascade Retail Co,Data Analyst,"Chicago, IL",2026-02-05,ZipRecruiter,2,55000,78000,Applied,,,
+APP0144,Clearwater Media,Data Analyst,"Dallas, TX",2026-08-05,ZipRecruiter,2,58000,75000,Rejected,2026-08-09,,4
+APP0145,Union Square Bank,Junior Data Analyst,"Tampa, FL",2026-03-06,Company Website,3,,,No Response,,,
+APP0146,Amber Logistics,Junior Data Analyst,"Phoenix, AZ",2026-07-07,Referral,1,68000,72000,Rejected,2026-07-28,,21
+APP0147,Fieldstone Consulting,Data Analyst Intern,"Minneapolis, MN",2026-04-12,Indeed,1,58000,82000,Rejected,2026-05-02,,20
+APP0148,Anchor Insurance Services,Data Analyst,"Minneapolis, MN",2026-06-07,Handshake,1,58000,78000,No Response,,,
+APP0149,Vantage Point Capital,Marketing Data Analyst,"Minneapolis, MN",2026-07-01,LinkedIn,1,,,Applied,,,
+APP0150,Skyline Retailers,Junior Data Analyst,"Indianapolis, IN",2026-07-08,Referral,3,,,Applied,,,
+APP0151,Fieldstone Consulting,Reporting Analyst,Remote,2026-05-23,Indeed,1,48000,70000,Applied,,,
+APP0152,Solstice Software,BI Analyst,Remote,2026-04-27,LinkedIn,1,,,Rejected,2026-05-16,,19
+APP0153,Rivergate Bank,Reporting Analyst,Remote,2026-02-12,Referral,1,,,Interview,2026-02-24,2026-02-21,12
+APP0154,Beacon Hill Hospital,Data Analyst,"Dallas, TX",2026-04-14,LinkedIn,2,,,Rejected,2026-04-29,,15
+APP0155,Greenfield Foods,Operations Data Analyst,"Minneapolis, MN",2026-03-11,Handshake,1,58000,65000,Applied,,,
+APP0156,Beacon Hill Hospital,Reporting Analyst,"Dallas, TX",2026-03-09,Company Website,1,52000,58000,Rejected,2026-03-26,,17
+APP0157,Crestline Insurance,Data Analyst,"Dallas, TX",2026-04-02,ZipRecruiter,1,62000,75000,No Response,,,
+APP0158,Clearwater Media,Marketing Data Analyst,"Charlotte, NC",2026-03-03,Glassdoor,2,58000,78000,No Response,,,
+APP0159,Cobalt Analytics Inc,Business Analyst,"Chicago, IL",2026-05-03,ZipRecruiter,1,48000,70000,No Response,,,
+APP0160,Solstice Software,Junior Data Analyst,Remote,2026-03-06,LinkedIn,1,65000,72000,Applied,,,
+APP0161,Copper Ridge Insurance,Business Analyst,"Chicago, IL",2026-03-04,Handshake,2,,,Applied,,,
+APP0162,Copper Ridge Insurance,Business Analyst,Remote,2026-07-08,Referral,3,60000,78000,No Response,,,
+APP0163,Trailhead Logistics,Data Analyst,"Dallas, TX",2026-05-03,Handshake,3,68000,72000,No Response,,,
+APP0164,Vertex Capital Partners,Operations Data Analyst,"Atlanta, GA",2026-04-01,Handshake,3,52000,68000,Offer,2026-04-10,2026-04-13,9
+APP0165,Elm Street Foods,Operations Data Analyst,"Denver, CO",2026-02-10,Indeed,2,,,Applied,,,
+APP0166,Amber Logistics,Junior Data Analyst,"Tampa, FL",2026-02-19,Referral,2,62000,65000,No Response,,,
+APP0167,Marlin Energy,Business Analyst,"Dallas, TX",2026-07-27,Glassdoor,3,55000,58000,No Response,,,
+APP0168,Amber Logistics,Data Analyst Intern,Remote,2026-04-30,LinkedIn,1,55000,62000,Offer,2026-05-21,2026-05-19,21
+APP0169,Elm Street Foods,Junior Business Intelligence Analyst,"Atlanta, GA",2026-02-26,Referral,2,58000,65000,Rejected,2026-02-28,,2
+APP0170,Summit Consulting Partners,Operations Data Analyst,"Chicago, IL",2026-07-08,Glassdoor,3,48000,75000,Interview,2026-07-14,2026-07-18,6
+APP0171,Skyline Retailers,Data Analyst I,"Phoenix, AZ",2026-03-12,Handshake,2,,,Applied,,,
+APP0172,Skyline Retailers,Marketing Data Analyst,"Charlotte, NC",2026-02-24,ZipRecruiter,2,65000,65000,Rejected,2026-03-09,,13
+APP0173,Ironclad Manufacturing,Junior Data Analyst,"Indianapolis, IN",2026-05-17,Glassdoor,3,,,Offer,2026-05-30,2026-06-08,13
+APP0174,Greenfield Foods,Business Analyst,Remote,2026-07-25,Company Website,1,55000,70000,No Response,,,
+APP0175,Cypress Analytics,Data Analyst I,"Phoenix, AZ",2026-03-01,Handshake,2,55000,62000,No Response,,,
+APP0176,Meridian Data Co,Junior Business Intelligence Analyst,"Austin, TX",2026-07-25,Referral,3,48000,75000,Rejected,2026-08-05,,11
+APP0177,Elm Street Foods,Junior Data Analyst,"Tampa, FL",2026-04-18,Indeed,1,68000,72000,Offer,2026-05-02,2026-04-29,14
+APP0178,Greenfield Foods,Data Analyst,"Columbus, OH",2026-02-13,LinkedIn,2,58000,70000,Interview,2026-02-28,2026-03-10,15
+APP0179,Crestline Insurance,Reporting Analyst,"Tampa, FL",2026-03-30,Indeed,3,60000,75000,Rejected,2026-03-31,,1
+APP0180,Meridian Data Co,Junior Business Intelligence Analyst,"Dallas, TX",2026-05-29,Handshake,2,68000,70000,No Response,,,
+APP0181,Ironclad Manufacturing,Marketing Data Analyst,"Chicago, IL",2026-07-14,Glassdoor,2,60000,70000,No Response,,,
+APP0182,Beacon Financial Group,Marketing Data Analyst,"Denver, CO",2026-05-15,Glassdoor,2,48000,68000,No Response,,,
+APP0183,Foundry Manufacturing,Business Analyst,"Denver, CO",2026-03-05,LinkedIn,2,65000,70000,Rejected,2026-03-16,,11
+APP0184,Marlin Energy,BI Analyst,"Charlotte, NC",2026-06-01,Handshake,1,52000,78000,Applied,,,
+APP0185,Crestline Insurance,Marketing Data Analyst,"Austin, TX",2026-03-19,Glassdoor,3,68000,72000,Rejected,2026-03-25,,6

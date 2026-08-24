@@ -1,0 +1,1131 @@
+application_id,skill
+APP0001,SQL
+APP0001,Excel
+APP0001,Python
+APP0001,DAX
+APP0001,Power Query
+APP0001,Google Sheets
+APP0001,AWS
+APP0002,Power BI
+APP0002,Python
+APP0002,Data Cleaning
+APP0002,Git
+APP0002,Data Visualization
+APP0002,Business Intelligence
+APP0003,Python
+APP0003,Power Query
+APP0003,Power BI
+APP0003,Data Cleaning
+APP0003,Pandas
+APP0003,Machine Learning
+APP0004,Pandas
+APP0004,Azure
+APP0004,Communication
+APP0004,Looker
+APP0004,Power Query
+APP0004,R
+APP0004,Statistics
+APP0005,Tableau
+APP0005,Pandas
+APP0005,Git
+APP0005,Power Query
+APP0005,Business Intelligence
+APP0005,Looker
+APP0005,Communication
+APP0006,Forecasting
+APP0006,R
+APP0006,A/B Testing
+APP0006,AWS
+APP0006,Python
+APP0007,Data Modeling
+APP0007,Azure
+APP0007,Google Sheets
+APP0007,AWS
+APP0007,DAX
+APP0007,Tableau
+APP0008,ETL
+APP0008,Looker
+APP0008,Tableau
+APP0008,R
+APP0009,Machine Learning
+APP0009,Google Sheets
+APP0009,Git
+APP0009,Power BI
+APP0009,Power Query
+APP0009,Business Intelligence
+APP0010,Pandas
+APP0010,R
+APP0010,VBA
+APP0010,DAX
+APP0010,Looker
+APP0011,R
+APP0011,Azure
+APP0011,Power BI
+APP0011,SQL
+APP0012,Power BI
+APP0012,SQL
+APP0012,Azure
+APP0012,Looker
+APP0012,Excel
+APP0012,Python
+APP0012,Power Query
+APP0012,PivotTables
+APP0013,SQL
+APP0013,Git
+APP0013,Snowflake
+APP0013,VBA
+APP0013,Google Sheets
+APP0013,Business Intelligence
+APP0014,R
+APP0014,Snowflake
+APP0014,Data Modeling
+APP0014,Google Sheets
+APP0014,Statistics
+APP0014,Pandas
+APP0014,DAX
+APP0015,Pandas
+APP0015,Tableau
+APP0015,Data Visualization
+APP0015,Python
+APP0015,Power Query
+APP0015,Forecasting
+APP0015,NumPy
+APP0015,PivotTables
+APP0016,Pandas
+APP0016,SQL
+APP0016,Python
+APP0016,Azure
+APP0016,A/B Testing
+APP0016,Git
+APP0016,Data Modeling
+APP0017,Looker
+APP0017,SQL
+APP0017,Data Modeling
+APP0017,Data Visualization
+APP0017,Snowflake
+APP0018,Git
+APP0018,PivotTables
+APP0018,Forecasting
+APP0018,A/B Testing
+APP0018,Excel
+APP0019,Data Visualization
+APP0019,NumPy
+APP0019,Forecasting
+APP0019,Power Query
+APP0019,ETL
+APP0019,Excel
+APP0019,R
+APP0020,Business Intelligence
+APP0020,Forecasting
+APP0020,Statistics
+APP0020,A/B Testing
+APP0020,AWS
+APP0020,Google Sheets
+APP0021,Business Intelligence
+APP0021,NumPy
+APP0021,Google Sheets
+APP0021,R
+APP0022,A/B Testing
+APP0022,Forecasting
+APP0022,Snowflake
+APP0022,AWS
+APP0022,Azure
+APP0023,Data Modeling
+APP0023,ETL
+APP0023,Power Query
+APP0023,R
+APP0024,Tableau
+APP0024,Azure
+APP0024,Communication
+APP0024,Excel
+APP0024,ETL
+APP0025,Statistics
+APP0025,ETL
+APP0025,Machine Learning
+APP0025,AWS
+APP0025,Business Intelligence
+APP0025,Google Sheets
+APP0025,A/B Testing
+APP0025,Looker
+APP0026,Statistics
+APP0026,Git
+APP0026,Looker
+APP0026,Python
+APP0026,Tableau
+APP0026,Business Intelligence
+APP0027,Communication
+APP0027,Excel
+APP0027,ETL
+APP0027,Snowflake
+APP0027,Data Cleaning
+APP0027,VBA
+APP0027,Data Modeling
+APP0027,Data Visualization
+APP0028,Business Intelligence
+APP0028,PivotTables
+APP0028,Machine Learning
+APP0028,Tableau
+APP0028,AWS
+APP0028,Looker
+APP0028,Excel
+APP0029,ETL
+APP0029,Data Cleaning
+APP0029,Pandas
+APP0029,Git
+APP0029,A/B Testing
+APP0029,Forecasting
+APP0030,Tableau
+APP0030,VBA
+APP0030,R
+APP0030,Power BI
+APP0030,Snowflake
+APP0031,R
+APP0031,Data Cleaning
+APP0031,Data Modeling
+APP0031,Communication
+APP0031,DAX
+APP0031,Python
+APP0031,Snowflake
+APP0031,Azure
+APP0032,Excel
+APP0032,A/B Testing
+APP0032,VBA
+APP0032,Power BI
+APP0032,Data Modeling
+APP0032,Data Visualization
+APP0033,Git
+APP0033,Power Query
+APP0033,Python
+APP0033,Pandas
+APP0033,Machine Learning
+APP0033,Data Modeling
+APP0034,DAX
+APP0034,Python
+APP0034,Power Query
+APP0034,Business Intelligence
+APP0034,A/B Testing
+APP0034,VBA
+APP0034,Looker
+APP0034,Forecasting
+APP0035,A/B Testing
+APP0035,Business Intelligence
+APP0035,Looker
+APP0035,Statistics
+APP0035,Data Visualization
+APP0035,Communication
+APP0036,ETL
+APP0036,Google Sheets
+APP0036,AWS
+APP0036,NumPy
+APP0036,Power BI
+APP0036,DAX
+APP0036,Git
+APP0036,Power Query
+APP0037,VBA
+APP0037,Machine Learning
+APP0037,Statistics
+APP0037,PivotTables
+APP0037,SQL
+APP0037,Pandas
+APP0037,Git
+APP0038,AWS
+APP0038,Git
+APP0038,Forecasting
+APP0038,Data Modeling
+APP0038,Power Query
+APP0038,Google Sheets
+APP0038,Data Cleaning
+APP0039,Machine Learning
+APP0039,Communication
+APP0039,AWS
+APP0039,VBA
+APP0039,NumPy
+APP0039,SQL
+APP0039,Power Query
+APP0040,Data Modeling
+APP0040,Tableau
+APP0040,Python
+APP0040,SQL
+APP0040,PivotTables
+APP0040,NumPy
+APP0041,Business Intelligence
+APP0041,Statistics
+APP0041,AWS
+APP0041,Pandas
+APP0041,Excel
+APP0041,Python
+APP0041,Power Query
+APP0042,A/B Testing
+APP0042,Azure
+APP0042,VBA
+APP0042,Python
+APP0042,Forecasting
+APP0042,Data Visualization
+APP0042,Git
+APP0042,Statistics
+APP0043,Git
+APP0043,Google Sheets
+APP0043,Excel
+APP0043,R
+APP0043,Looker
+APP0043,Machine Learning
+APP0043,A/B Testing
+APP0044,Power BI
+APP0044,Excel
+APP0044,Azure
+APP0044,AWS
+APP0044,Power Query
+APP0044,Communication
+APP0044,PivotTables
+APP0045,Business Intelligence
+APP0045,Tableau
+APP0045,Python
+APP0045,Pandas
+APP0045,A/B Testing
+APP0045,Statistics
+APP0045,Google Sheets
+APP0045,ETL
+APP0046,Machine Learning
+APP0046,Statistics
+APP0046,DAX
+APP0046,Communication
+APP0046,Power Query
+APP0046,Snowflake
+APP0046,Data Cleaning
+APP0047,Statistics
+APP0047,Power BI
+APP0047,Machine Learning
+APP0047,Data Modeling
+APP0047,Google Sheets
+APP0047,Forecasting
+APP0047,Excel
+APP0047,Tableau
+APP0048,Azure
+APP0048,Communication
+APP0048,ETL
+APP0048,VBA
+APP0048,Looker
+APP0048,SQL
+APP0049,Google Sheets
+APP0049,A/B Testing
+APP0049,Snowflake
+APP0049,R
+APP0049,Forecasting
+APP0050,Forecasting
+APP0050,Machine Learning
+APP0050,NumPy
+APP0050,R
+APP0051,Power BI
+APP0051,Power Query
+APP0051,Data Cleaning
+APP0051,Snowflake
+APP0051,Data Visualization
+APP0051,ETL
+APP0051,NumPy
+APP0052,Azure
+APP0052,Power BI
+APP0052,SQL
+APP0052,NumPy
+APP0052,Forecasting
+APP0053,Data Modeling
+APP0053,PivotTables
+APP0053,Pandas
+APP0053,VBA
+APP0053,NumPy
+APP0053,Statistics
+APP0054,Machine Learning
+APP0054,Data Visualization
+APP0054,R
+APP0054,Business Intelligence
+APP0055,Communication
+APP0055,NumPy
+APP0055,Azure
+APP0055,A/B Testing
+APP0055,Power BI
+APP0055,Tableau
+APP0055,SQL
+APP0056,Data Modeling
+APP0056,VBA
+APP0056,AWS
+APP0056,A/B Testing
+APP0057,Power BI
+APP0057,Git
+APP0057,Data Modeling
+APP0057,Machine Learning
+APP0057,Python
+APP0058,Statistics
+APP0058,ETL
+APP0058,Tableau
+APP0058,Forecasting
+APP0058,AWS
+APP0059,Business Intelligence
+APP0059,Python
+APP0059,VBA
+APP0059,Machine Learning
+APP0060,A/B Testing
+APP0060,R
+APP0060,Power BI
+APP0060,VBA
+APP0060,Communication
+APP0060,Machine Learning
+APP0060,Python
+APP0061,A/B Testing
+APP0061,Power BI
+APP0061,Forecasting
+APP0061,Communication
+APP0061,Data Modeling
+APP0061,Azure
+APP0061,ETL
+APP0061,Looker
+APP0062,Data Visualization
+APP0062,Tableau
+APP0062,R
+APP0062,VBA
+APP0062,Python
+APP0062,Business Intelligence
+APP0063,AWS
+APP0063,NumPy
+APP0063,Data Visualization
+APP0063,Power BI
+APP0063,Snowflake
+APP0063,Google Sheets
+APP0064,R
+APP0064,Data Modeling
+APP0064,Communication
+APP0064,Pandas
+APP0064,Excel
+APP0064,PivotTables
+APP0064,ETL
+APP0064,NumPy
+APP0065,Tableau
+APP0065,PivotTables
+APP0065,ETL
+APP0065,AWS
+APP0066,NumPy
+APP0066,R
+APP0066,Snowflake
+APP0066,VBA
+APP0067,PivotTables
+APP0067,Tableau
+APP0067,Data Cleaning
+APP0067,Looker
+APP0067,Communication
+APP0067,Power Query
+APP0067,Google Sheets
+APP0068,PivotTables
+APP0068,Forecasting
+APP0068,AWS
+APP0068,Machine Learning
+APP0068,Communication
+APP0068,Data Visualization
+APP0069,Google Sheets
+APP0069,DAX
+APP0069,ETL
+APP0069,Data Visualization
+APP0069,Forecasting
+APP0069,Azure
+APP0069,Tableau
+APP0069,Power Query
+APP0070,Tableau
+APP0070,Machine Learning
+APP0070,Python
+APP0070,VBA
+APP0070,Data Modeling
+APP0070,Azure
+APP0071,AWS
+APP0071,Google Sheets
+APP0071,Data Cleaning
+APP0071,Machine Learning
+APP0072,Communication
+APP0072,Python
+APP0072,Google Sheets
+APP0072,Azure
+APP0072,PivotTables
+APP0072,SQL
+APP0073,Python
+APP0073,Statistics
+APP0073,Power BI
+APP0073,Looker
+APP0073,R
+APP0073,Data Cleaning
+APP0074,R
+APP0074,Communication
+APP0074,Data Modeling
+APP0074,Business Intelligence
+APP0074,Google Sheets
+APP0075,ETL
+APP0075,AWS
+APP0075,Tableau
+APP0075,Data Modeling
+APP0075,Data Cleaning
+APP0075,Forecasting
+APP0076,Data Modeling
+APP0076,DAX
+APP0076,Forecasting
+APP0076,AWS
+APP0076,Tableau
+APP0077,Tableau
+APP0077,Data Modeling
+APP0077,A/B Testing
+APP0077,Python
+APP0077,Power Query
+APP0077,Machine Learning
+APP0077,Data Visualization
+APP0077,Excel
+APP0078,Data Modeling
+APP0078,Tableau
+APP0078,Looker
+APP0078,Business Intelligence
+APP0078,AWS
+APP0079,Azure
+APP0079,Google Sheets
+APP0079,Snowflake
+APP0079,Power Query
+APP0080,Git
+APP0080,VBA
+APP0080,SQL
+APP0080,Azure
+APP0080,Data Cleaning
+APP0080,Data Visualization
+APP0080,Pandas
+APP0081,Data Modeling
+APP0081,ETL
+APP0081,R
+APP0081,Machine Learning
+APP0081,Communication
+APP0082,Forecasting
+APP0082,Data Visualization
+APP0082,A/B Testing
+APP0082,Data Cleaning
+APP0083,Data Modeling
+APP0083,PivotTables
+APP0083,Looker
+APP0083,NumPy
+APP0083,Statistics
+APP0083,Power BI
+APP0083,Python
+APP0083,Business Intelligence
+APP0084,Python
+APP0084,R
+APP0084,Azure
+APP0084,Data Cleaning
+APP0085,SQL
+APP0085,AWS
+APP0085,Tableau
+APP0085,R
+APP0085,Machine Learning
+APP0085,Data Visualization
+APP0085,Communication
+APP0085,Business Intelligence
+APP0086,Communication
+APP0086,Machine Learning
+APP0086,DAX
+APP0086,AWS
+APP0086,NumPy
+APP0086,Git
+APP0087,Excel
+APP0087,Data Visualization
+APP0087,Looker
+APP0087,Snowflake
+APP0087,Data Modeling
+APP0087,Machine Learning
+APP0087,Forecasting
+APP0088,Data Visualization
+APP0088,Tableau
+APP0088,ETL
+APP0088,Looker
+APP0088,Azure
+APP0088,Snowflake
+APP0088,PivotTables
+APP0088,Data Modeling
+APP0089,AWS
+APP0089,Looker
+APP0089,Python
+APP0089,Google Sheets
+APP0089,Azure
+APP0089,PivotTables
+APP0090,ETL
+APP0090,Snowflake
+APP0090,A/B Testing
+APP0090,AWS
+APP0090,Azure
+APP0091,VBA
+APP0091,Machine Learning
+APP0091,DAX
+APP0091,Statistics
+APP0091,AWS
+APP0091,Tableau
+APP0091,ETL
+APP0092,Power BI
+APP0092,SQL
+APP0092,NumPy
+APP0092,Data Cleaning
+APP0092,Git
+APP0093,VBA
+APP0093,AWS
+APP0093,Azure
+APP0093,R
+APP0093,Git
+APP0093,NumPy
+APP0094,Python
+APP0094,Data Cleaning
+APP0094,Google Sheets
+APP0094,Machine Learning
+APP0094,Looker
+APP0094,Pandas
+APP0095,Machine Learning
+APP0095,Tableau
+APP0095,AWS
+APP0095,Google Sheets
+APP0095,Data Modeling
+APP0095,Statistics
+APP0095,Forecasting
+APP0095,Communication
+APP0096,A/B Testing
+APP0096,Snowflake
+APP0096,NumPy
+APP0096,Forecasting
+APP0097,Data Modeling
+APP0097,R
+APP0097,Power Query
+APP0097,SQL
+APP0097,Snowflake
+APP0098,DAX
+APP0098,Looker
+APP0098,Statistics
+APP0098,R
+APP0098,VBA
+APP0098,Google Sheets
+APP0098,Data Cleaning
+APP0098,Forecasting
+APP0099,VBA
+APP0099,Data Visualization
+APP0099,Looker
+APP0099,Business Intelligence
+APP0099,Pandas
+APP0099,NumPy
+APP0100,Business Intelligence
+APP0100,VBA
+APP0100,DAX
+APP0100,Forecasting
+APP0100,Looker
+APP0100,Pandas
+APP0101,Communication
+APP0101,VBA
+APP0101,Power BI
+APP0101,R
+APP0101,Tableau
+APP0101,Excel
+APP0102,Looker
+APP0102,Business Intelligence
+APP0102,Git
+APP0102,SQL
+APP0102,PivotTables
+APP0103,Statistics
+APP0103,NumPy
+APP0103,Machine Learning
+APP0103,Azure
+APP0104,Business Intelligence
+APP0104,Statistics
+APP0104,Forecasting
+APP0104,NumPy
+APP0105,Data Cleaning
+APP0105,Power Query
+APP0105,Machine Learning
+APP0105,ETL
+APP0105,Pandas
+APP0105,Statistics
+APP0106,Communication
+APP0106,Power BI
+APP0106,Azure
+APP0106,NumPy
+APP0106,Data Visualization
+APP0106,AWS
+APP0107,Tableau
+APP0107,PivotTables
+APP0107,Statistics
+APP0107,Google Sheets
+APP0107,Machine Learning
+APP0107,Power BI
+APP0107,R
+APP0107,DAX
+APP0108,Business Intelligence
+APP0108,Excel
+APP0108,Data Cleaning
+APP0108,Pandas
+APP0108,Data Modeling
+APP0108,DAX
+APP0109,Data Visualization
+APP0109,Data Cleaning
+APP0109,Machine Learning
+APP0109,Data Modeling
+APP0109,ETL
+APP0109,Python
+APP0109,R
+APP0110,Machine Learning
+APP0110,R
+APP0110,Business Intelligence
+APP0110,Looker
+APP0110,A/B Testing
+APP0110,ETL
+APP0111,SQL
+APP0111,Machine Learning
+APP0111,AWS
+APP0111,R
+APP0111,Communication
+APP0111,Git
+APP0111,Power Query
+APP0111,Business Intelligence
+APP0112,NumPy
+APP0112,Pandas
+APP0112,SQL
+APP0112,Looker
+APP0112,Snowflake
+APP0112,PivotTables
+APP0112,Azure
+APP0113,VBA
+APP0113,Power Query
+APP0113,Data Modeling
+APP0113,NumPy
+APP0113,Communication
+APP0113,Tableau
+APP0113,Machine Learning
+APP0113,SQL
+APP0114,Data Cleaning
+APP0114,R
+APP0114,AWS
+APP0114,Forecasting
+APP0114,SQL
+APP0114,Python
+APP0115,Data Cleaning
+APP0115,Power Query
+APP0115,Looker
+APP0115,Statistics
+APP0115,ETL
+APP0116,SQL
+APP0116,Snowflake
+APP0116,Power Query
+APP0116,Business Intelligence
+APP0116,Tableau
+APP0116,Excel
+APP0116,Pandas
+APP0117,Business Intelligence
+APP0117,Azure
+APP0117,Git
+APP0117,VBA
+APP0117,Machine Learning
+APP0117,PivotTables
+APP0117,Data Visualization
+APP0118,Python
+APP0118,Communication
+APP0118,Tableau
+APP0118,Excel
+APP0118,DAX
+APP0119,Looker
+APP0119,NumPy
+APP0119,Excel
+APP0119,Google Sheets
+APP0119,Communication
+APP0119,R
+APP0120,Data Visualization
+APP0120,Data Cleaning
+APP0120,Machine Learning
+APP0120,Snowflake
+APP0121,Azure
+APP0121,Forecasting
+APP0121,Statistics
+APP0121,Snowflake
+APP0121,Power BI
+APP0121,Google Sheets
+APP0121,SQL
+APP0122,Tableau
+APP0122,ETL
+APP0122,Communication
+APP0122,Data Cleaning
+APP0122,Python
+APP0122,NumPy
+APP0122,PivotTables
+APP0122,Snowflake
+APP0123,A/B Testing
+APP0123,Power Query
+APP0123,Data Modeling
+APP0123,Python
+APP0124,R
+APP0124,Data Cleaning
+APP0124,Python
+APP0124,ETL
+APP0124,AWS
+APP0124,NumPy
+APP0124,Power Query
+APP0124,Forecasting
+APP0125,Power BI
+APP0125,Tableau
+APP0125,Python
+APP0125,PivotTables
+APP0125,A/B Testing
+APP0125,Machine Learning
+APP0126,Power Query
+APP0126,Snowflake
+APP0126,Google Sheets
+APP0126,PivotTables
+APP0126,R
+APP0126,Data Cleaning
+APP0126,ETL
+APP0126,Tableau
+APP0127,AWS
+APP0127,DAX
+APP0127,Machine Learning
+APP0127,Power BI
+APP0127,Tableau
+APP0127,NumPy
+APP0127,Excel
+APP0127,Data Cleaning
+APP0128,Data Cleaning
+APP0128,Statistics
+APP0128,NumPy
+APP0128,Business Intelligence
+APP0128,Communication
+APP0129,Communication
+APP0129,DAX
+APP0129,Machine Learning
+APP0129,NumPy
+APP0129,Git
+APP0129,Python
+APP0129,A/B Testing
+APP0130,Azure
+APP0130,AWS
+APP0130,SQL
+APP0130,Snowflake
+APP0130,R
+APP0131,Power Query
+APP0131,Machine Learning
+APP0131,Data Visualization
+APP0131,Data Cleaning
+APP0131,Data Modeling
+APP0131,R
+APP0131,Snowflake
+APP0131,Google Sheets
+APP0132,VBA
+APP0132,Data Visualization
+APP0132,Git
+APP0132,Power BI
+APP0132,Machine Learning
+APP0132,Communication
+APP0132,Business Intelligence
+APP0132,Statistics
+APP0133,A/B Testing
+APP0133,Machine Learning
+APP0133,Power Query
+APP0133,Data Cleaning
+APP0133,Azure
+APP0133,PivotTables
+APP0133,Communication
+APP0133,Business Intelligence
+APP0134,PivotTables
+APP0134,Data Visualization
+APP0134,Statistics
+APP0134,DAX
+APP0134,Machine Learning
+APP0134,Power BI
+APP0134,Pandas
+APP0134,VBA
+APP0135,Data Visualization
+APP0135,Communication
+APP0135,Tableau
+APP0135,Google Sheets
+APP0135,Data Cleaning
+APP0136,AWS
+APP0136,SQL
+APP0136,Data Visualization
+APP0136,Excel
+APP0136,VBA
+APP0136,Tableau
+APP0136,DAX
+APP0137,Power Query
+APP0137,Looker
+APP0137,NumPy
+APP0137,PivotTables
+APP0137,Machine Learning
+APP0137,Snowflake
+APP0138,Power BI
+APP0138,Business Intelligence
+APP0138,Azure
+APP0138,ETL
+APP0138,Power Query
+APP0138,NumPy
+APP0138,SQL
+APP0139,Snowflake
+APP0139,Data Visualization
+APP0139,Looker
+APP0139,Pandas
+APP0140,Power Query
+APP0140,Tableau
+APP0140,Communication
+APP0140,Statistics
+APP0140,Data Modeling
+APP0141,Communication
+APP0141,Data Visualization
+APP0141,Machine Learning
+APP0141,VBA
+APP0141,Statistics
+APP0141,Snowflake
+APP0142,Data Modeling
+APP0142,NumPy
+APP0142,Statistics
+APP0142,Looker
+APP0142,Snowflake
+APP0142,Tableau
+APP0143,DAX
+APP0143,Communication
+APP0143,Tableau
+APP0143,Azure
+APP0143,NumPy
+APP0143,PivotTables
+APP0143,Pandas
+APP0144,VBA
+APP0144,Python
+APP0144,Tableau
+APP0144,Snowflake
+APP0144,Power Query
+APP0145,Power BI
+APP0145,Statistics
+APP0145,Data Visualization
+APP0145,NumPy
+APP0146,AWS
+APP0146,R
+APP0146,Machine Learning
+APP0146,DAX
+APP0146,Python
+APP0146,Power BI
+APP0146,Tableau
+APP0147,Git
+APP0147,R
+APP0147,NumPy
+APP0147,DAX
+APP0148,Google Sheets
+APP0148,Excel
+APP0148,Data Visualization
+APP0148,Statistics
+APP0149,Forecasting
+APP0149,Data Cleaning
+APP0149,Google Sheets
+APP0149,NumPy
+APP0150,Forecasting
+APP0150,Tableau
+APP0150,Looker
+APP0150,Statistics
+APP0150,Data Cleaning
+APP0151,Power BI
+APP0151,Excel
+APP0151,Communication
+APP0151,Tableau
+APP0151,PivotTables
+APP0152,Machine Learning
+APP0152,Google Sheets
+APP0152,Data Visualization
+APP0152,SQL
+APP0152,VBA
+APP0152,Snowflake
+APP0152,PivotTables
+APP0153,Power Query
+APP0153,A/B Testing
+APP0153,Business Intelligence
+APP0153,Statistics
+APP0153,Pandas
+APP0153,Python
+APP0154,DAX
+APP0154,NumPy
+APP0154,Snowflake
+APP0154,Data Modeling
+APP0154,Business Intelligence
+APP0154,AWS
+APP0155,Azure
+APP0155,Data Modeling
+APP0155,Communication
+APP0155,Excel
+APP0155,Statistics
+APP0155,ETL
+APP0156,Machine Learning
+APP0156,Business Intelligence
+APP0156,Python
+APP0156,Snowflake
+APP0156,Power BI
+APP0156,Google Sheets
+APP0157,Statistics
+APP0157,Machine Learning
+APP0157,Pandas
+APP0157,Power Query
+APP0157,Python
+APP0157,DAX
+APP0158,Git
+APP0158,Power BI
+APP0158,Python
+APP0158,PivotTables
+APP0158,R
+APP0158,NumPy
+APP0159,Excel
+APP0159,Data Cleaning
+APP0159,Git
+APP0159,Machine Learning
+APP0159,Looker
+APP0160,Snowflake
+APP0160,Pandas
+APP0160,Data Modeling
+APP0160,Python
+APP0161,A/B Testing
+APP0161,Data Modeling
+APP0161,Business Intelligence
+APP0161,Data Cleaning
+APP0161,VBA
+APP0161,Excel
+APP0161,ETL
+APP0161,Git
+APP0162,VBA
+APP0162,SQL
+APP0162,Python
+APP0162,Pandas
+APP0162,Data Cleaning
+APP0162,Tableau
+APP0162,A/B Testing
+APP0162,DAX
+APP0163,Statistics
+APP0163,Data Cleaning
+APP0163,Pandas
+APP0163,PivotTables
+APP0163,Excel
+APP0163,Git
+APP0163,AWS
+APP0163,Power Query
+APP0164,Snowflake
+APP0164,Excel
+APP0164,Communication
+APP0164,Forecasting
+APP0164,Data Visualization
+APP0164,Git
+APP0165,Excel
+APP0165,Statistics
+APP0165,AWS
+APP0165,DAX
+APP0165,Tableau
+APP0165,Data Modeling
+APP0165,PivotTables
+APP0166,Tableau
+APP0166,PivotTables
+APP0166,Business Intelligence
+APP0166,A/B Testing
+APP0166,Azure
+APP0166,VBA
+APP0167,Data Cleaning
+APP0167,ETL
+APP0167,Snowflake
+APP0167,SQL
+APP0167,PivotTables
+APP0167,AWS
+APP0167,Statistics
+APP0167,Communication
+APP0168,Business Intelligence
+APP0168,Excel
+APP0168,SQL
+APP0168,Data Cleaning
+APP0169,Statistics
+APP0169,Pandas
+APP0169,Power BI
+APP0169,Python
+APP0170,A/B Testing
+APP0170,Communication
+APP0170,Looker
+APP0170,Business Intelligence
+APP0170,Pandas
+APP0171,VBA
+APP0171,DAX
+APP0171,Power BI
+APP0171,Excel
+APP0171,Data Modeling
+APP0171,PivotTables
+APP0171,Azure
+APP0171,NumPy
+APP0172,Machine Learning
+APP0172,SQL
+APP0172,Pandas
+APP0172,Power Query
+APP0172,Data Modeling
+APP0173,Snowflake
+APP0173,Google Sheets
+APP0173,Forecasting
+APP0173,Git
+APP0173,R
+APP0173,AWS
+APP0173,Tableau
+APP0173,Power BI
+APP0174,Python
+APP0174,Data Cleaning
+APP0174,Looker
+APP0174,Statistics
+APP0175,ETL
+APP0175,Power BI
+APP0175,Forecasting
+APP0175,NumPy
+APP0175,Looker
+APP0175,Data Visualization
+APP0175,A/B Testing
+APP0175,Pandas
+APP0176,Business Intelligence
+APP0176,VBA
+APP0176,Pandas
+APP0176,Data Visualization
+APP0177,Git
+APP0177,Data Visualization
+APP0177,SQL
+APP0177,Google Sheets
+APP0177,PivotTables
+APP0177,Python
+APP0177,NumPy
+APP0177,ETL
+APP0178,Snowflake
+APP0178,Looker
+APP0178,Data Visualization
+APP0178,Forecasting
+APP0178,PivotTables
+APP0178,Pandas
+APP0178,Python
+APP0179,Azure
+APP0179,PivotTables
+APP0179,AWS
+APP0179,Forecasting
+APP0179,Excel
+APP0180,Data Cleaning
+APP0180,Snowflake
+APP0180,Power BI
+APP0180,Excel
+APP0180,Google Sheets
+APP0180,R
+APP0180,Data Visualization
+APP0180,Looker
+APP0181,DAX
+APP0181,Tableau
+APP0181,Google Sheets
+APP0181,ETL
+APP0181,Power Query
+APP0181,SQL
+APP0182,R
+APP0182,Looker
+APP0182,Azure
+APP0182,Forecasting
+APP0182,VBA
+APP0183,Data Visualization
+APP0183,Power Query
+APP0183,Business Intelligence
+APP0183,Git
+APP0183,NumPy
+APP0184,Power BI
+APP0184,R
+APP0184,Data Cleaning
+APP0184,Google Sheets
+APP0184,NumPy
+APP0184,A/B Testing
+APP0184,SQL
+APP0184,Tableau
+APP0185,Excel
+APP0185,Machine Learning
+APP0185,Pandas
+APP0185,DAX
