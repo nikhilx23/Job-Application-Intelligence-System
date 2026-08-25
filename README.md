@@ -55,9 +55,6 @@ project1/
 │   └── POWERBI_GUIDE.md         Step-by-step Power Query, data model, DAX guide
 ├── charts/
 │   └── *.png                    5 charts from the Python analysis
-├── PROJECT_1_TALKING_POINTS.md  Interview cheat sheet — 30-second pitch,
-│                                 resume bullets, and answers to the
-│                                 follow-up questions this project invites
 └── README.md                    This file
 ```
 
@@ -158,10 +155,3 @@ reproduces the original clean dataset exactly.
   casing, deduplication), skill-matching/recommendation logic, charting
 - **Power BI:** star-schema data modeling, DAX measures (including time
   intelligence with `DATESMTD`/`DATEADD`), dashboard/slicer design
-
-## Talking to this project in an interview
-
-See `PROJECT_1_TALKING_POINTS.md` for the 30-second pitch, ready-made
-resume bullets, and prepared answers to the questions this project tends
-to invite ("why four tools instead of one," "walk me through the SQL,"
-"what was the hardest part," "did you build this alone").
