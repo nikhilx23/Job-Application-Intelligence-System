@@ -6,11 +6,6 @@ answers the question every job hunt needs answered: **which resume
 actually works, which job boards are worth the time, and what skill gap
 is costing the most interviews?**
 
-Built as project 1 of 3 in a data analyst portfolio series (see
-`Three_Data_Analyst_Projects_Printable_Guide.pdf` for the full roadmap —
-Project 2 is the Personal Financial Intelligence System, Project 3 is an
-Apartment Decision Engine).
-
 ## The problem
 
 Most job searches generate a spreadsheet nobody looks at twice. This
